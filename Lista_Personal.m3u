@@ -14,5 +14,5 @@ https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Costa Rica",Canal 6
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/471/131/png-transparent-hbo-go-logo-hbo-now-cinemax-hbo-logo-television-text-trademark.png" group-title="Cine y Series",HBO
-https://vivo.lamtv.tv:8081/a/0071/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="Cine y Series",HBO 2
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/173.m3u8

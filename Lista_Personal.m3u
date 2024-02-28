@@ -20,5 +20,5 @@ http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/743/1007/png-transparent-tnt-logo-television-channel-turner-broadcasting-system-design-television-text-logo.png" group-title="Cine y Series",TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https-u-verse-comedia-central-thumbnail.png" group-title="Cine y Series",Prueba HBO Family
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/436/570/png-transparent-hbo-family-hd-logo.png" group-title="Cine y Series",HBO Family
 http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8

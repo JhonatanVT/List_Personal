@@ -25,3 +25,6 @@ http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine y Series",Sony Channel
 http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Cine y Series",Warner Channel
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8

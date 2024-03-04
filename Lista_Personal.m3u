@@ -28,3 +28,6 @@ http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Cine y Series",Warner Channel
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180515/cte/kisspng-cartoon-network-droopy-logo-television-5afac079aa8de4.7687541215263827136986.jpg" group-title="Kids & Geek",Cartoon Network
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8

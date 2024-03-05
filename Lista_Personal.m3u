@@ -31,3 +31,6 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180515/cte/kisspng-cartoon-network-droopy-logo-television-5afac079aa8de4.7687541215263827136986.jpg" group-title="Kids & Geek",Cartoon Network
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nickelodeon7748.jpg" group-title="Kids & Geek",Nickelodeon
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8

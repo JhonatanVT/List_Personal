@@ -43,27 +43,6 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/164.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Kids & Geek",Tooncast
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim (LATAM)
-http://45.5.117.182:8000/play/a0es/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Adult Swim
+http://201.159.113.219:49000/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim | Opción 2 (LATAM)
-http://187.102.209.92:9010/play/a03z/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim | Opción 3 (LATAM)
-http://45.169.38.226:8000/play/a0ai/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim | Opción 4 (LATAM)
-http://181.78.8.90:16123/play/ch75
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim | Opción 5 (LATAM)
-http://170.82.37.21:8000/play/a034/index.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true

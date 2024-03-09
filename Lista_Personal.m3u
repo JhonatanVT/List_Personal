@@ -43,11 +43,10 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/164.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Kids & Geek",Tooncast
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Adult Swim
-http://181.62.161.181:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="Kids & Geek",Adult Swim
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/124.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Adult Swim
-http://181.62.161.181:8000/play/371/index.m3u8
+
 
 
 

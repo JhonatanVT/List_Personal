@@ -48,6 +48,10 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/124.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Kids & Geek",Adult Swim Opcion 2
+http://45.5.117.182:8000/play/a0es/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 
 
 

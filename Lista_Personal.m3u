@@ -57,6 +57,8 @@ http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="Entretenimiento",Comedy Central
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",
+http://190.61.43.118:45000/play/a05w
 
 
 

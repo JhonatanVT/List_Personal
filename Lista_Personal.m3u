@@ -64,6 +64,9 @@ http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/1280px-Dragon_Ball_anime_logo.png" group-title="24/7",Prueba Dragon Ball
+http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/1439
+
 
 
 

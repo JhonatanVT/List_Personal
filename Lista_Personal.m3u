@@ -69,6 +69,8 @@ http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Culturales",History Channel
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="Culturales",Animal Planet
+https://vivo.lamtv.tv:8081/a/0131/playlist.m3u8
 
 
 

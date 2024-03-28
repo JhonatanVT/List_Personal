@@ -81,7 +81,10 @@ http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica",Teletica Canal 7
-http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/423
+http://nxt.plus:8080/olmos/1234guz/46875
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Multimedios_Televisi%C3%B3n_2015.svg/revision/latest?cb=20210723184654&path-prefix=es" group-title="Costa Rica",Multimedios Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 
 

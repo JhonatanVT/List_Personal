@@ -14,7 +14,7 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Costa Rica",Canal 6
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="Cine y Series",HBO 2
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/71-718154_hbo-2-hd-png-download.png" group-title="Cine y Series",HBO 2
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/743/1007/png-transparent-tnt-logo-television-channel-turner-broadcasting-system-design-television-text-logo.png" group-title="Cine y Series",TNT
@@ -98,6 +98,9 @@ http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/21/0/10/universal-studios-hollywood-universal-pictures-universal-orlando-studio-tour-logo-png-favpng-GANddygpUGjEZnGxutRs3SWf0.jpg" group-title="Cine y Series",Studio Universal
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Cine y Series",Sony Movies
+http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
 
 
 

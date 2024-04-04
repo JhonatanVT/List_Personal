@@ -96,6 +96,9 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Cine y Series",Star Channel
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.favpng.com/21/0/10/universal-studios-hollywood-universal-pictures-universal-orlando-studio-tour-logo-png-favpng-GANddygpUGjEZnGxutRs3SWf0.jpg" group-title="Cine y Series",Studio Universal
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+
 
 
 

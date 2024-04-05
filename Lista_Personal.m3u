@@ -102,6 +102,9 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Cine y Series",Sony Movies
 http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Frs3AxpWwAEG08o?format=png&name=240x240" group-title="Cine y Series",Planeta TV Family Kids
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
 
 
 

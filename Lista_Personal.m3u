@@ -105,11 +105,11 @@ http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Frs3AxpWwAEG08o?format=png&name=240x240" group-title="Cine y Series",Planeta TV Family Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htK7TTqG/adultsw-imx.jpg" group-title="Kids & Geek",Adult Swim (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htK7TTqG/adultsw-imx.jpg" group-title="Kids & Geek",Adult Swim Mexico
 http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oWmwpIL4iOHfr-vu3FiOCzRztrv_QSdiQBf7WX7JkBNJ
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1Z4QV62/bravo.jpg" group-title="USA",Bravo (US)
-http://170.254.18.106/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Kids & Geek",ETC
+http://45.238.20.90:8000/play/a1af
 
 
 

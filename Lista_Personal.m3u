@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://epg.best/234be-39oejj.xml.gz"
-
 #EXTINF:-1 tvg-logo="https://www.crhoy.com/wp-content/uploads/2023/05/Gente-Opa-e1684187637560.jpg" group-title="Costa Rica",Canal Opa
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 
@@ -114,5 +112,5 @@ http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oWmwpIL4iOHfr-vu3FiOCzRztrv_QS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Kids & Geek",ETC
 http://45.238.20.90:8000/play/a1af
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGHNSW-wN/dreamw.jpg" group-title="Cine y Series",Dreamworks | Pelis (LATAM)
-http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oQL4unpoTVDfbIiscpCrsy_GSNbLhFg5m3BtD8a8D0w0
+#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png group-title="Kids & Geek",Dreamworks
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8

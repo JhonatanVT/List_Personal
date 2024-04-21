@@ -123,3 +123,6 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Entretenimiento",TLC
 http://190.61.40.186:45000/play/a042
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Entretenimiento",Las Estrellas
+https://179.189.222.226:8000/play/ch44

@@ -125,4 +125,7 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 http://190.61.40.186:45000/play/a042
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Entretenimiento",Las Estrellas
-http://186.148.163.18:8000/play/a029/index.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/768px-Repretel_11_logo.png" group-title="Costa Rica",Cana 11
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8

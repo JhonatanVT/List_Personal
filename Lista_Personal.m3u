@@ -132,3 +132,8 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Culturales",Discovery Turbo
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/1494
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_World_logo.svg/2560px-Discovery_World_logo.svg.png" group-title="Culturales",Discovery World
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159365
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true

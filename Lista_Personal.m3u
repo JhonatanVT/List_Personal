@@ -137,3 +137,8 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/1494
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159365
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Culturales",Discovery Theater
+http://45.90.105.74:25461/bud-1882009/1e621f3272/159359
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true

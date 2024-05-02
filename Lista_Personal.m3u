@@ -143,3 +143,6 @@ http://138.186.20.13:23200/play/a0fd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="Culturales",Discovery Science
 http://138.59.177.34:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="USA",ABC
+http://143.244.60.30/ABC_EAST/index.m3u8

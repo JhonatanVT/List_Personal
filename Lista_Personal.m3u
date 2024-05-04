@@ -155,3 +155,6 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/126782
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/2560px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="USA",FOX
 http://143.244.60.30/FOX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA",NBC
+http://143.244.60.30/NBC_EAST/index.m3u8

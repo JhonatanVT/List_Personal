@@ -161,3 +161,6 @@ http://143.244.60.30/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HowlI4G5AwJYrUNtf1g6TwAxGAmLonFpxb8i3UiS.jpg" group-title="Costa Rica",Sinart Canal 13
 https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ucr.ac.cr/medios/imagenes/2021/607466deea50560713b52a749blogocanal15.jpg" group-title="Costa Rica",Quince UCR
+http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8

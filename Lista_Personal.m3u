@@ -158,3 +158,6 @@ http://143.244.60.30/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA",NBC
 http://143.244.60.30/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HowlI4G5AwJYrUNtf1g6TwAxGAmLonFpxb8i3UiS.jpg" group-title="Costa Rica",Sinart Canal 13
+https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8

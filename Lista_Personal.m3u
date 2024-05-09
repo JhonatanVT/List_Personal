@@ -159,8 +159,11 @@ http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA",NBC
 http://143.244.60.30/NBC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HowlI4G5AwJYrUNtf1g6TwAxGAmLonFpxb8i3UiS.jpg" group-title="Costa Rica",Sinart Canal 13
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica",Sinart Canal 13
 https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ucr.ac.cr/medios/imagenes/2021/607466deea50560713b52a749blogocanal15.jpg" group-title="Costa Rica",Quince UCR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_drMy8yrpVPmiJkWk2opx6xQL3pcoi2a06UKjw2RsWA&s" group-title="Costa Rica",Quince UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2560px-Logo_Extra_TV_42.svg.png" group-title="Costa Rica",Extra TV 42
+http://204.157.251.250:8000/play/a06l/index.m3u8

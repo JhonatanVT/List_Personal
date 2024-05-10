@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.crhoy.com/wp-content/uploads/2023/05/Gente-Opa-e1684187637560.jpg" group-title="Costa Rica",Canal Opa
+#EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica",Canal Opa
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/canal-1-cr.jpg?itok=UBE-junt" group-title="Costa Rica",Canal 1
@@ -159,7 +159,7 @@ http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA",NBC
 http://143.244.60.30/NBC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica",Sinart Canal 13
+#EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica",Sinart Canal 13
 https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_drMy8yrpVPmiJkWk2opx6xQL3pcoi2a06UKjw2RsWA&s" group-title="Costa Rica",Quince UCR
@@ -167,3 +167,6 @@ http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2560px-Logo_Extra_TV_42.svg.png" group-title="Costa Rica",Extra TV 42
 http://204.157.251.250:8000/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/S8ftk5LvOxi_QTHxZOngNYwq-EZXy0b-ctHCYgfDZ8_gGD5UvXNUiwheZRe5BmUczgnm" group-title="Costa Rica",TeleRed
+https://k20.usastreams.com:8081/telered/index.m3u8

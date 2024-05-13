@@ -22,7 +22,7 @@ http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine y Series",Cinecanal
-http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+http://138.186.20.13:23200/play/a05x
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine y Series",Sony Channel
 http://168.227.22.18:1935/live/mobile-035/playlist.m3u8

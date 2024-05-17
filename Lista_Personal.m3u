@@ -177,3 +177,6 @@ http://181.78.105.146:6060/play/a00h
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine y Series",Golden
 http://179.189.222.226:16123/play/ch46
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinemax-logo-0C991E492D-seeklogo.com.png" group-title="Cine y Series",Cinemax
+http://45.181.123.233:8000/play/a0kw
+

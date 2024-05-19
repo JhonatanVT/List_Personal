@@ -91,7 +91,7 @@ http://138.59.177.34:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LgLtLfX/cr10.jpg" group-title="Costa Rica",Canal 10
 https://vivo.radiosportstv.online:3138/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/20/1001/264/5bb8cc1b158d0-thumbnail.jpg" group-title="Cine y Series",Hbo Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine y Series",Hbo Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Cine y Series",Star Channel

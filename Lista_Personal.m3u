@@ -183,3 +183,6 @@ http://45.181.123.233:8000/play/a0kw
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Paramount_Network_%28Blue%29.svg/revision/latest?cb=20200115012911&path-prefix=es" group-title="Cine y Series",Paramount
 http://181.78.105.146:8800/play/a00z
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/5/56/TeenNick_%282023%29.png/revision/latest/scale-to-width-down/1200?cb=20231203213041" group-title="Kids & Geek",Teen Nick
+http://181.78.105.146:8800/play/a04l
+

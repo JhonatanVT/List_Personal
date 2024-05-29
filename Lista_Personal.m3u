@@ -195,3 +195,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="Kids & Geek",Magic Kids
 https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision
+http://45.190.187.226:58092/play/a011
+

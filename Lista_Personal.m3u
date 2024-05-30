@@ -203,3 +203,6 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158618
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="Entretenimiento",RCN
+http://138.186.20.13:23200/play/a0fm

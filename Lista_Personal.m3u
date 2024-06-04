@@ -63,7 +63,7 @@ http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Culturales",Discovery Channel
-http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+http://45.190.187.226:58092/play/a00y
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="Culturales",History Channel
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/156.m3u8

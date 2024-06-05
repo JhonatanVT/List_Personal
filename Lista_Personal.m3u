@@ -209,3 +209,6 @@ http://138.186.20.13:23200/play/a0fm
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1280px-Discovery_Home_%26_Health_logo.svg.png" group-title="Entretenimiento",Discovery Home & Health
 http://179.189.222.226:8000/play/ch25
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png" group-title="Culturales",History 2
+http://181.78.105.146:8800/play/a021

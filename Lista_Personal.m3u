@@ -212,3 +212,6 @@ http://179.189.222.226:8000/play/ch25
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png" group-title="Culturales",History 2
 http://181.78.105.146:8800/play/a021
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Culturales",HGTV
+http://200.116.199.180:8000/play/a04v

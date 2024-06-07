@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_CR1.xml.gz?raw=true"
 
 #EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica",Canal Opa
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
@@ -215,3 +216,6 @@ http://181.78.105.146:8800/play/a021
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Culturales",HGTV
 http://200.116.199.180:8000/play/a04v
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="Culturales",Discovery ID
+http://45.190.187.226:58092/play/a012

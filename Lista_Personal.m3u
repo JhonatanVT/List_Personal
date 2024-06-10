@@ -222,3 +222,6 @@ http://45.190.187.226:58092/play/a012
 
 #EXTINF:-1 tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="Culturales",El Gourmet
 http://45.190.187.226:58092/play/a020
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="USA",TBS
+http://143.244.60.30/TBS/index.m3u8

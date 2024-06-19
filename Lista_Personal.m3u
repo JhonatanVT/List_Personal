@@ -234,3 +234,9 @@ http://170.254.18.106/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="24/7",Dragon Ball
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37816.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/two-and-a-half-men-logo-2979E1A2CB-seeklogo.com.png" group-title="24/7",Dos Hombres y Medio
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37791.m3u8

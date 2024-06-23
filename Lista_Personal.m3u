@@ -246,3 +246,6 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37883.m3u8
 
 #EXTINF:-1 tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeYlfya8eDCM4bnyB1JibWmJo_Zp-spwab1M1YEOU1Gu0BObUNr3uBHNy7Y6DErBdnz976u2H_U0SIg8uz7FvgFPkgNWmcZDL4gDjnD9KDP_.png?r=e13" group-title="24/7",Sex and the City
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37749.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TheCriticLogo.svg/1200px-TheCriticLogo.svg.png" group-title="24/7",El Critico
+https://raw.githubusercontent.com/JhonatanVT/El-Critico/main/El Critico.m3u

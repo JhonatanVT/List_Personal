@@ -274,3 +274,6 @@ https://archive.org/download/3l-cr171c0/El%20Critico%20T02E10.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdAZQ5ONewyvlRMoZ8X_3S-oo10Mj1frL0Q&s" group-title="Costa Rica",TeleSistema
 https://k20.usastreams.com:8081/telesistema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EcGmj5Qy2FZ4YIuEj1b5gnP_QQSAa_jXjoAD0dkxlB3Q77AlieXQLA963HLpvgG-8w" group-title="Costa Rica",TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8

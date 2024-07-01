@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica",Canal Opa
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/canal-1-cr.jpg?itok=UBE-junt" group-title="Costa Rica",Canal 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPgX3BAyVJrhddZBS934xmT6Kev9EUhXHeQ&s" group-title="Costa Rica",Canal 1
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTahR_dwiLhkq_mR9YlzoDCv6Z8odQUm11K8a4W=s900-c-k-c0x00ffffff-no-rj" group-title="Costa Rica",CDR Canal 2

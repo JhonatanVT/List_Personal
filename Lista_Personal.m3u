@@ -17,7 +17,7 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Cine y Series",HBO 2
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+http://45.181.123.233:8000/play/a0j3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Cine y Series",TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8

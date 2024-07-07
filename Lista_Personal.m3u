@@ -284,3 +284,6 @@ http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Cine y Series",Golden Edge
 http://181.78.8.90:16123/play/ch47
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Cine y Series",AMC
+http://45.181.123.233:8000/play/a189

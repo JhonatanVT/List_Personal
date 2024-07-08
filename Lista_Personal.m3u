@@ -33,7 +33,7 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 http://138.186.20.13:23200/play/a061
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nickelodeon7748.jpg" group-title="Kids & Geek",Nickelodeon
-http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+http://45.181.123.233:8000/play/a0lc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Kids & Geek",Disney Channel
 http://191.97.58.41:8001/play/a00z

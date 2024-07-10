@@ -287,3 +287,6 @@ http://181.78.8.90:16123/play/ch47
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Cine y Series",AMC
 http://45.181.123.233:8000/play/a189
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" group-title="Kids & Geek",Disney Junior
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159129

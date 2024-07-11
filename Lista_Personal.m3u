@@ -290,3 +290,6 @@ http://45.181.123.233:8000/play/a189
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" group-title="Kids & Geek",Disney Junior
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159129
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids & Geek",Discovery Kids
+http://138.186.20.13:23200/play/a0fb

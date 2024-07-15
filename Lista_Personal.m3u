@@ -56,7 +56,7 @@ http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/876/392/png-transparent-mtv-base-viacom-media-networks-mtv-classic-television-show-mtv-logo-angle-text-hand.png" group-title="Entretenimiento",MTV
-http://138.186.20.13:23200/play/a072
+http://45.181.123.233:8000/play/a17x
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/675/820/png-transparent-e-television-show-television-channel-logo-tv-others-television-angle-rectangle.png" group-title="Entretenimiento",E!
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8

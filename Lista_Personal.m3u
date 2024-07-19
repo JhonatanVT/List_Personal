@@ -302,3 +302,6 @@ http://45.228.234.167:8000/play/a0ll
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="Entretenimiento",City TV
 http://190.60.40.37:12500/play/a06i
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Entretenimiento",Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8

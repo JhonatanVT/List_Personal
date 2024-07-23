@@ -65,9 +65,7 @@ http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 http://45.190.187.226:58092/play/a00y
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="Culturales",History Channel
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/156.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+http://45.181.123.233:8000/play/a0uo
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="Culturales",Animal Planet
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/15.m3u8

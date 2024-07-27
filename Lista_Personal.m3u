@@ -312,3 +312,6 @@ http://138.186.20.13:23200/play/a0ey
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Culturales",DW
 http://138.186.20.13:23200/play/a08t
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yIuiaw5RAOY/VZA9CnEF_2I/AAAAAAAAAHk/a_ycmDi9gCY/s1600/maschic-2015.png" group-title="Culturales",Mas Chic
+http://138.186.20.13:23200/play/a08k

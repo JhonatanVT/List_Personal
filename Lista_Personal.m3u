@@ -309,3 +309,6 @@ http://179.189.222.226:8000/play/ch28
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpfjeAP75ZdepAquWzzL-Cfoe8EUPx0NLXEA&s" group-title="Culturales",Hogar TV
 http://138.186.20.13:23200/play/a0ey
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Culturales",DW
+http://138.186.20.13:23200/play/a08t

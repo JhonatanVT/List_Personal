@@ -315,3 +315,6 @@ http://138.186.20.13:23200/play/a08t
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yIuiaw5RAOY/VZA9CnEF_2I/AAAAAAAAAHk/a_ycmDi9gCY/s1600/maschic-2015.png" group-title="Culturales",Mas Chic
 http://138.186.20.13:23200/play/a08k
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="USA",Nickelodeon
+http://143.244.60.30/NICKELODEON/index.m3u8

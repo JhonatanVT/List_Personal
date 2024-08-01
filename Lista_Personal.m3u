@@ -321,3 +321,6 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/800px-Comedy_Central_2018.svg.png" group-title="USA",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" group-title="USA",NickToons
+http://143.244.60.30/NICKTOONS/index.m3u8

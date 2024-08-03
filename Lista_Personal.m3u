@@ -327,3 +327,6 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="USA",MTV 2
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/HBO_2_NL.svg/revision/latest?cb=20220904091147" group-title="USA",HBO 2
+https://fl5.moveonjoy.com/HBO_2/index.m3u8

@@ -229,10 +229,7 @@ http://170.254.18.106/MTV/index.m3u8
 http://170.254.18.106/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="24/7",Dragon Ball
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37816.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/697
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a47b82ce09b09fd7887281d2c9898e8c286d254625ada437071885503e6b1416.png" group-title="24/7",Dos Hombres y Medio
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37791.m3u8

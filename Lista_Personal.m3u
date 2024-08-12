@@ -125,7 +125,7 @@ http://190.61.40.186:45000/play/a042
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Entretenimiento",Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="CANAL_11_REPRETEL" tvg-name="CANAL 11 REPRETEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/768px-Repretel_11_logo.png" group-title="Costa Rica",CANAL 11 REPRETEL
+#EXTINF:-1 tvg-id="CANAL_11_REPRETEL" tvg-name="CANAL 11 REPRETEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/768px-Repretel_11_logo.png" group-title="Costa Rica",Canal 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Culturales",Discovery Turbo
@@ -336,7 +336,7 @@ http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/703
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/700
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Game-of-Thrones-logo.png" group-title="24/7",Game of Thrones
-http://nxt.plus:8080/olmos/1234guz/140892
+http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/698
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Animaniacs_1993.png/revision/latest?cb=20200407005852&path-prefix=es" group-title="24/7",Animaniacs
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/795

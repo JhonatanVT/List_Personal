@@ -343,3 +343,6 @@ http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/795
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN
 http://170.82.37.21:8000/play/a00y
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRecI4gHHdWY4FwMR8-PaxaZ7M0lzFPbnrPsg&s" group-title="Deportes",FUTV
+http://181.78.105.146:8800/play/a052

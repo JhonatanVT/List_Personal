@@ -349,3 +349,6 @@ http://181.78.105.146:8800/play/a052
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DirecTV Sports
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/465
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest?cb=20231117062910" group-title="Deportes",Fox Sports Premium
+http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/540

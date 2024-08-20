@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JhonatanVT/EPG_Personal/main/WebGrab%2B%2B.config.xml"
 
 #EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica",Canal Opa
-https://opa.usastreams.com:3101/live/canalopalive.m3u8
+https://opa.usastreams.com:3066/live/canalopalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPgX3BAyVJrhddZBS934xmT6Kev9EUhXHeQ&s" group-title="Costa Rica",Canal 1
 https://video20.klm99.com:3993/live/canal1crlive.m3u8

@@ -358,3 +358,6 @@ http://170.82.37.21:8000/play/a015
 
 #EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2024/08/ticavision-logo-2.png" group-title="Costa Rica",Ticavisión
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://trivisioncr.com/wp-content/uploads/2024/03/LOGOWEB400x100.png" group-title="Costa Rica",Trivisión 36
+https://rtmp.info/trivision36/envivo/playlist.m3u8

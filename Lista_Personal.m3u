@@ -355,3 +355,6 @@ http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/540
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/TUDNlogo.png/revision/latest?cb=20190721040715&path-prefix=es" group-title="Deportes",TUDN
 http://170.82.37.21:8000/play/a015
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sX23N08w/ticavision3.jpg" group-title="Costa Rica 🇨🇷",Ticavisión
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8

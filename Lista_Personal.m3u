@@ -362,5 +362,5 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://trivisioncr.com/wp-content/uploads/2024/03/LOGOWEB400x100.png" group-title="Costa Rica",Trivisión 36
 https://rtmp.info/trivision36/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/04c6ac_ab050ed8f9e848e099a0a221c8730b62~mv2.png/v1/fill/w_1702,h_396,al_b,q_90,enc_auto/04c6ac_ab050ed8f9e848e099a0a221c8730b62~mv2.png" group-title="Costa Rica",TeleUno
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_280,h_259,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20canal%20nuevo.png" group-title="Costa Rica",TeleUno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8

@@ -364,3 +364,6 @@ https://rtmp.info/trivision36/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_280,h_259,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20canal%20nuevo.png" group-title="Costa Rica",TeleUno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3yWFNtL/sanvito1.jpg" group-title="Costa Rica",San Vito Televisión (STV)
+https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8

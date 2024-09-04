@@ -379,3 +379,6 @@ http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/181
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Kids & Geek",Nick Jr
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/393
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/3816px-Logotipo_Color_2_NTV%28Chile%29.svg.png" group-title="Kids & Geek",NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8

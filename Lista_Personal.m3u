@@ -385,3 +385,6 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-cdn.b-cdn.net/images/4Bpbr5DmYnWKwUd0b_1715718388.jpg?class=generic0poster" group-title="Kids & Geek",Anime Onegai Accion
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logotipo_EnerGeek.png" group-title="Kids & Geek",EnerGeek
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8

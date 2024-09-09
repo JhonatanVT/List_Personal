@@ -33,7 +33,7 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids & Geek",Cartoon Network
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/373
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nickelodeon7748.jpg" group-title="Kids & Geek",Nickelodeon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Kids & Geek",Nickelodeon
 http://45.181.123.233:8000/play/a0lc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Kids & Geek",Disney Channel

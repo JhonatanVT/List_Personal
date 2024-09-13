@@ -394,3 +394,6 @@ http://186.189.222.205:1993/play/013
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-red-logo-7039BBA7D1-seeklogo.com.png" group-title="Entretenimiento",La Red Chile
 http://45.181.123.233:8000/play/a0uv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" group-title="Entretenimiento",Caracol
+http://45.181.123.233:8000/play/a0lk

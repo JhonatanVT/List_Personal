@@ -397,3 +397,6 @@ http://45.181.123.233:8000/play/a0uv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" group-title="Entretenimiento",Caracol
 http://45.181.123.233:8000/play/a0lk
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="Entretenimiento",Azteca 7
+https://live.info7.mx/info7/stream/_hi1/index.m3u8

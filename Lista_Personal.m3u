@@ -54,7 +54,7 @@ http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="Entretenimiento",Comedy Central
-http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/242
+http://45.181.123.233:8000/play/a17k
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="Entretenimiento",MTV
 http://45.181.123.233:8000/play/a17x

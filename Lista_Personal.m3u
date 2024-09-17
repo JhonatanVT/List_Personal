@@ -400,3 +400,6 @@ http://45.181.123.233:8000/play/a0lk
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="Entretenimiento",Azteca 7
 http://181.78.105.146:2000/play/a08z
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/435/764/png-transparent-ewtn-catholit-ntwrk-hd-logo.png" group-title="Entretenimiento",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8

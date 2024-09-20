@@ -406,3 +406,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="Culturales",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fa-media.s3.amazonaws.com/downloads/set_web_logo_picture-/l5mbaxk7qo_fa-logo.png" group-title="Culturales",Film & Arts
+http://181.13.173.86:8000/play/a030

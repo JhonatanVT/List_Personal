@@ -409,3 +409,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTINF:-1 tvg-logo="https://fa-media.s3.amazonaws.com/downloads/set_web_logo_picture-/l5mbaxk7qo_fa-logo.png" group-title="Culturales",Film & Arts
 http://181.13.173.86:8000/play/a030
+
+#EXTINF:-1 tvg-logo="https://www.oxigenonetwork.com/images/logo-w.png" group-title="Culturales",Oxygeno Network
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w561164806.m3u8

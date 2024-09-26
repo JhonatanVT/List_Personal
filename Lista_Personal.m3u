@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/JhonatanVT/EPG_Personal/main/WebGrab%2B%2B.config.xml"
+#EXTM3U url-tvg="http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw"
 
 #EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica",Canal Opa
 https://opa.usastreams.com:3066/live/canalopalive.m3u8

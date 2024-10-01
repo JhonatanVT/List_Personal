@@ -424,3 +424,7 @@ http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="USA",TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Disney%27s_Lilo_%26_Stitch_logo.svg" group-title="24/7",Lilo y Stich
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8

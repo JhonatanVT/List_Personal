@@ -431,3 +431,5 @@ https://bgtv.xyz/play/play-926.php?ul=430&token=asdfasdasdfggh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Disney%27s_Lilo_%26_Stitch_logo.svg" group-title="24/7",Lilo y Stich
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="24/7",Chespirito
+http://bgtv.xyz/play/play-926.php?ul=417&token=asdfasdasdfggh

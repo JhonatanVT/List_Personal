@@ -433,3 +433,8 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="24/7",Chespirito
 http://bgtv.xyz/play/play-926.php?ul=417&token=asdfasdasdfggh
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-WVPRf1NgsuhhEFyebNYp4kRmkbG9cGpn6w&s" group-title="24/7",Digimon
+http://bgtv.xyz/play/play-926.php?tlat=129&token=asdfasdasdfggh
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true

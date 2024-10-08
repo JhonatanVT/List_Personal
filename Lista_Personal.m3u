@@ -438,3 +438,6 @@ http://bgtv.xyz/play/play-926.php?ul=417&token=asdfasdasdfggh
 http://bgtv.xyz/play/play-926.php?tlat=129&token=asdfasdasdfggh
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes",ESPN 2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1456

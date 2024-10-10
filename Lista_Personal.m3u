@@ -441,3 +441,6 @@ http://bgtv.xyz/play/play-926.php?tlat=129&token=asdfasdasdfggh
 
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes",ESPN 2
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1456
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Deportes",Tigo Sports Costa Rica
+http://190.61.106.107:8000/play/a036/index.m3u8

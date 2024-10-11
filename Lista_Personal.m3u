@@ -445,5 +445,5 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1456
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Deportes",Tigo Sports Costa Rica
 http://190.61.106.107:8000/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo-thumbnail.png" group-title="Deportes",Claro Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2560px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
 http://181.78.105.146:6060/play/a05a

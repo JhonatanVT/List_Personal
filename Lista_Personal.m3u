@@ -87,7 +87,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 http://170.82.37.21:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LgLtLfX/cr10.jpg" group-title="Costa Rica",Canal 10
-https://vivo.radiosportstv.online:3138/stream/play.m3u8
+https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine y Series",Hbo Family
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/135

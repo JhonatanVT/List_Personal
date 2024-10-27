@@ -472,7 +472,7 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Costa Rica",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2024/09/cropped-Logo-TVN-512x512-1.png" group-title="Costa Rica 🇨🇷",TVN San Carlos 
+#EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2024/09/cropped-Logo-TVN-512x512-1.png" group-title="Costa Rica",TVN San Carlos 
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/LoFbtkWuFbMsclHeX666IxsYhqlyECJpQ1PnG3Aq.png" group-title="Costa Rica", GAM TV

@@ -22,7 +22,7 @@ http://45.181.123.233:8000/play/a0j3
 http://38.41.8.1:8000/play/a00s
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine y Series",Cinecanal
-http://138.186.20.13:23200/play/a05x
+http://38.41.8.1:8000/play/a01r
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine y Series",Sony Channel
 http://168.227.22.18:1935/live/mobile-035/playlist.m3u8

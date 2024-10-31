@@ -28,7 +28,7 @@ http://38.41.8.1:8000/play/a01r
 http://45.181.123.233:8000/play/a0l4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Cine y Series",Warner Channel
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+http://45.181.123.233:8000/play/a182
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids & Geek",Cartoon Network
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/373

@@ -90,7 +90,7 @@ http://170.82.37.21:8000/play/a02z/index.m3u8
 https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine y Series",Hbo Family
-http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/135
+http://45.181.123.233:8000/play/a0ls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Cine y Series",Star Channel
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8

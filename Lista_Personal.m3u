@@ -93,7 +93,7 @@ https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 http://45.181.123.233:8000/play/a0ls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Cine y Series",Star Channel
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+http://38.41.8.1:8000/play/a02s
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Cine y Series",Studio Universal
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8

@@ -489,4 +489,7 @@ http://38.41.8.1:8000/play/a02n
 
 #EXTINF:-1 tvg-logo="" group-title="Kids & Geek,
 
+#EXTINF:-1 tvg-logo="" group-title="USA,FXX
+http://74.48.44.156:1234/stream/asd/544/master.m3u8
+
 

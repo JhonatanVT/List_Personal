@@ -484,8 +484,8 @@ http://38.41.8.1:8000/play/a02n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="Kids & Geek", Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids & Geek,
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHF6zFD8/energeek-fan.jpg" group-title="Kids & Geek", EnerGeek Fan
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids & Geek,
 

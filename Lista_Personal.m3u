@@ -487,7 +487,8 @@ https://cloudvideo.servers10.com:8081/8096/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHF6zFD8/energeek-fan.jpg" group-title="Kids & Geek", EnerGeek Fan
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids & Geek,
+#EXTINF:-1 tvg-logo="https://img-cdn.b-cdn.net/images/mJya3PJE0kx2Jsg1r_1715028541.jpg?class=generic0poster" group-title="Kids & Geek", Canal Anime Onegai
+https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA,FXX
 http://74.48.44.156:1234/stream/asd/544/master.m3u8

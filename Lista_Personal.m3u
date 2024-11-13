@@ -493,4 +493,7 @@ https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbe
 #EXTINF:-1 tvg-logo="" group-title="USA,FXX
 http://74.48.44.156:1234/stream/asd/544/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="Entretenimiento",TC Ecuador
+https://live-b.cf.dmcdn.net/sec2(gIauPs07IHdTeYXPO7cRFSq_zgQeGT-dvzcTu9zTc-aDiaFuRMY7XKdqRmQdC1wTfYZI5e1AZ5PgMWDs6jnXfC2S6Q2w2d8BBCo7mBzqfIg_4RKysKd6sYyrENcuKpLC)/dm/3/x84cxl0/s/live-1080.m3u8
+
 

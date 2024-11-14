@@ -498,3 +498,6 @@ https://live-b.cf.dmcdn.net/sec2(gIauPs07IHdTeYXPO7cRFSq_zgQeGT-dvzcTu9zTc-aDiaF
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Entretenimiento",Unimas
 http://supersonictv.live:8080/Gloria1/Gloria1/10630
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Entretenimiento",Telefe
+http://181.13.173.86:8000/play/a06c/index.m3u8

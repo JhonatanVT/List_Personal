@@ -501,3 +501,6 @@ http://supersonictv.live:8080/Gloria1/Gloria1/10630
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Entretenimiento",Telefe
 http://181.13.173.86:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1200px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Entretenimiento",Mega
+http://45.181.123.233:8000/play/a0is

@@ -146,10 +146,7 @@ http://138.59.177.34:8000/play/a00v/index.m3u8
 http://143.244.60.30/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png" group-title="USA",CBS
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/126782
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/2560px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="USA",FOX
 http://143.244.60.30/FOX_EAST/index.m3u8

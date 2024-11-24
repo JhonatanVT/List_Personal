@@ -510,3 +510,6 @@ http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/1193px-Boomerang-Logo.svg.png" group-title="USA",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="USA",Freeform
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8

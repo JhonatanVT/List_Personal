@@ -513,3 +513,6 @@ http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="USA",Freeform
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/396999a6-3fff-4af3-802b-10c46d10deff/09b98055599daaf836a1f4d1476fc7789cd7ab69.png?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320" group-title="24/7",Chernobyl
+http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/274256.m3u

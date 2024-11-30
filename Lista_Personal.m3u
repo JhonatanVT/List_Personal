@@ -522,3 +522,6 @@ http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/274253.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/The_Good_Doctor_%28American_TV_series%29_logo.png" group-title="24/7",The Good Doctor
 http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/274268.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1024px-Futurama_1999_logo.svg.png" group-title="24/7",Futurama
+http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/346235.m3u

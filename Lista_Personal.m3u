@@ -528,3 +528,6 @@ http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/346235.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://190.61.106.107:8000/play/a056
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TDMasLogo22.png/640px-TDMasLogo22.png" group-title="Deportes",TD+
+http://190.211.102.42:4000/play/a00q

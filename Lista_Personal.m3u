@@ -27,7 +27,7 @@ http://38.41.8.1:8000/play/a01r
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine y Series",Sony Channel
 http://45.181.123.233:8000/play/a0l4
 
-#EX:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Cine y Series",Warner Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Cine y Series",Warner Channel
 http://45.181.123.233:8000/play/a182
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids & Geek",Cartoon Network
@@ -573,3 +573,6 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/lJer7QOGqUenodguYDBCl2qb4p4d4SSBghCX20GZ.png" group-title="Costa Rica", Mega TV CR
+https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8

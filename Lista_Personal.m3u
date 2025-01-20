@@ -576,3 +576,6 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/lJer7QOGqUenodguYDBCl2qb4p4d4SSBghCX20GZ.png" group-title="Costa Rica", Mega TV CR
 https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/xycjNJNHcnWKQcIiFH3TC0NLo0c3wBF3oMZa7QRf.jpg" group-title="Costa Rica", TV Nosara
+https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8

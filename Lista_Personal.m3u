@@ -581,3 +581,7 @@ https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="Cine y Series",FX
+http://179.189.222.226:8000/play/ch08
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" group-title="Cine y Series",Space
+http://190.61.106.107:8000/play/a051

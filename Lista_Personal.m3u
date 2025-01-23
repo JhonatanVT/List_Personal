@@ -585,3 +585,6 @@ http://179.189.222.226:8000/play/ch08
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" group-title="Cine y Series",Space
 http://190.61.106.107:8000/play/a051
+
+#EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="Cine y Series",HBO Xtreme
+http://38.52.209.82:8000/play/a00o

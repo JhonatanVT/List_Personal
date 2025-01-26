@@ -588,3 +588,6 @@ http://190.61.106.107:8000/play/a051
 
 #EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="Cine y Series",HBO Xtreme
 http://38.52.209.82:8000/play/a00o
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.926c708c6f8ba665429c99b39b760a32.png" group-title="Cine y Series",Golden Premiere
+http://190.61.117.35:8000/play/a036

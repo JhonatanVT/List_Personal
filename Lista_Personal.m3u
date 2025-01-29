@@ -37,7 +37,7 @@ http://190.61.106.107:8000/play/a00q
 http://45.189.148.81:8000/play/a00n
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Kids & Geek",Disney Channel
-http://181.13.173.86:8000/play/a02r
+http://supersonictv.live:8080/Gloria1/Gloria1/61268
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Kids & Geek",Tooncast
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8

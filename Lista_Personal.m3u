@@ -105,7 +105,7 @@ http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htK7TTqG/adultsw-imx.jpg" group-title="Kids & Geek",Adult Swim
-http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oWmwpIL4iOHfr-vu3FiOCzRztrv_QSdiQBf7WX7JkBNJ
+http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/91.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Kids & Geek",ETC
 http://45.181.122.46:8090/play/a00t

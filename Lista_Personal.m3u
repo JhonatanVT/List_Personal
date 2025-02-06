@@ -594,3 +594,6 @@ http://190.61.117.35:8000/play/a036
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="Entretenimiento",Canal 11 Guatemala
 http://38.52.209.82:8000/play/a02a
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Galavision_Logo_2024.svg" group-title="Entretenimiento",Galavision
+http://supersonictv.live:8080/Gloria1/Gloria1/10603

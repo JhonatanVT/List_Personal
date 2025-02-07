@@ -600,3 +600,7 @@ http://supersonictv.live:8080/Gloria1/Gloria1/10603
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Entretenimiento",Canal 2 SV
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Entretenimiento",Global
+http://38.41.8.1:8000/play/a0iy

@@ -597,3 +597,6 @@ http://38.52.209.82:8000/play/a02a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Galavision_Logo_2024.svg" group-title="Entretenimiento",Galavision
 http://supersonictv.live:8080/Gloria1/Gloria1/10603
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/170px-Global_logo_2019.png" group-title="Entretenimiento",Global
+http://38.41.8.1:8000/play/a0iy

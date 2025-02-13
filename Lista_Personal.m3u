@@ -606,3 +606,6 @@ http://186.3.168.66:4000/play/a0sk
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62a6503f4b3a3c23e5af3495/2d96809e-d63a-4f05-ba18-ec06251811e9/Discovery-Channel-Symbol.png" group-title="USA",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2022/08/tcm-logo-freelogovectors.net_.png" group-title="USA",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8

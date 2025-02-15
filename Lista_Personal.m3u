@@ -612,3 +612,6 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/Disney-Junior-Logo.png" group-title="USA",Disney Junior
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="USA",Adult Swim
+http://supersonictv.live:8080/Gloria1/Gloria1/22043

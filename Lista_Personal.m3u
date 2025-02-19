@@ -615,3 +615,6 @@ http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="USA",Adult Swim
 http://supersonictv.live:8080/Gloria1/Gloria1/22043
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/the-walking-dead-logo.png" group-title="24/7",The Walking Dead
+http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/389852.m3u

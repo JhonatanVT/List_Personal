@@ -618,3 +618,6 @@ http://supersonictv.live:8080/Gloria1/Gloria1/22043
 
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/the-walking-dead-logo.png" group-title="24/7",The Walking Dead
 http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/389852.m3u
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Oq6ac4gjQE36mqBH8wngYJA7V.png" group-title="24/7",Los Simpson
+http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/294013.m3u

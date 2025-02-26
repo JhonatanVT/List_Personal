@@ -628,4 +628,6 @@ http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/396453.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" group-title="24/7",Pokemon
 http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/389807.m3u
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
+http://216.122.181.10:8081/play/a0hm
 

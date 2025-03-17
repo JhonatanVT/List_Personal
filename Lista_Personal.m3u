@@ -158,7 +158,7 @@ http://143.244.60.30/NBC_EAST/index.m3u8
 https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_drMy8yrpVPmiJkWk2opx6xQL3pcoi2a06UKjw2RsWA&s" group-title="Costa Rica",Quince UCR
-http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8
+http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2560px-Logo_Extra_TV_42.svg.png" group-title="Costa Rica",Extra TV 42
 http://204.157.251.250:8000/play/a06l/index.m3u8

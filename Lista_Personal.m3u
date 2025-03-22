@@ -675,3 +675,6 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lossantostv.com/images/nuevo-logo-lstv_ptzqucxf.webp" group-title="Costa Rica",Los Santos TV 
 https://lstv.duckdns.org:449/hls/lstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Costa Rica", Unife
+http://190.7.192.164:8020/play/s41

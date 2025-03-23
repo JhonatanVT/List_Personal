@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica",Canal Opa
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPgX3BAyVJrhddZBS934xmT6Kev9EUhXHeQ&s" group-title="Costa Rica",Canal 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Canal1logo.png/revision/latest?cb=20240828025119&path-prefix=es" group-title="Costa Rica",Canal 1
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTahR_dwiLhkq_mR9YlzoDCv6Z8odQUm11K8a4W=s900-c-k-c0x00ffffff-no-rj" group-title="Costa Rica",CDR Canal 2
@@ -676,5 +676,5 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lossantostv.com/images/nuevo-logo-lstv_ptzqucxf.webp" group-title="Costa Rica",Los Santos TV 
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Costa Rica", Unife
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Costa Rica",Unife
 http://190.7.192.164:8020/play/s41

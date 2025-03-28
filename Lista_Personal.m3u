@@ -684,3 +684,6 @@ http://38.52.209.82:8000/play/a01x
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Cine y Series",Golden Premier 2
 http://187.102.208.83:50000/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es" group-title="Cine y Series",DHE
+http://190.0.241.181:8000/play/a0af

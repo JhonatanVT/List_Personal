@@ -693,3 +693,6 @@ http://187.102.208.83:50000/play/a0au/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Senpai_TV_2022.png/revision/latest/scale-to-width-down/350?cb=20220322020302&path-prefix=es" group-title="Kids & Geek",Senpai TV
 http://45.184.87.142:8000/play/a021
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Semillitas_logo.png/revision/latest?cb=20210807052349&path-prefix=es" group-title="Kids & Geek",Semillitas
+http://45.184.87.142:8000/play/a021

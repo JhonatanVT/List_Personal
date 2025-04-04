@@ -696,3 +696,6 @@ http://45.184.87.142:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Semillitas_logo.png/revision/latest?cb=20210807052349&path-prefix=es" group-title="Kids & Geek",Semillitas
 http://38.52.209.82:8000/play/a014
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Kids & Geek",Anime Zone TV
+http://animezonetv.net/hls/stream.m3u8

@@ -54,7 +54,7 @@ http://supersonictv.live:8080/Gloria1/Gloria1/10566
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="Entretenimiento",Comedy Central
-http://45.181.123.233:8000/play/a17k
+http://38.52.209.82:8000/play/a04f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="Entretenimiento",MTV
 http://45.181.123.233:8000/play/a17x

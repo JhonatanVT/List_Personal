@@ -114,7 +114,7 @@ http://45.181.122.46:8090/play/a00t
 http://45.189.148.5:8000/play/a00j
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Entretenimiento",Lifetime
-http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+http://38.52.209.82:8000/play/a01c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Entretenimiento",Distrito Comedia
 http://187.102.208.83:50000/play/a0ae/index.m3u8

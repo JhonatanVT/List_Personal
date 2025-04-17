@@ -708,5 +708,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="USA",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="USA",Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2560px-Animal_Planet_logo.svg.png" group-title="USA",Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wi" group-title="USA",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8

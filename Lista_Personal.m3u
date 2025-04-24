@@ -723,3 +723,6 @@ http://170.39.192.130:2095/56995290328play/play190play125play/306196
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/PATB_DVD_logo.png/revision/latest?cb=20200407013130&path-prefix=es" group-title="24/7",Pinky y Cerebro
 https://nxt.plus:8443/olmos/1234guz/140885
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friends_logo.svg/1280px-Friends_logo.svg.png" group-title="24/7",Friends
+http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94854.m3u8

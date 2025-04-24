@@ -720,3 +720,6 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Logo-Art-Attack.gif/250px-Logo-Art-Attack.gif" group-title="24/7",Art Attack
 http://170.39.192.130:2095/56995290328play/play190play125play/306196
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/PATB_DVD_logo.png/revision/latest?cb=20200407013130&path-prefix=es" group-title="24/7",Pinky y Cerebro
+https://nxt.plus:8443/olmos/1234guz/140885

@@ -726,3 +726,6 @@ https://nxt.plus:8443/olmos/1234guz/140885
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friends_logo.svg/1280px-Friends_logo.svg.png" group-title="24/7",Friends
 http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94854.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8AP3mH8WxSqPJ4S-SZ7R0CO0EjzqQtoAO9Q&s" group-title="24/7",Yu-Gi-Oh
+http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/95603.m3u8

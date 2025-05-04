@@ -734,10 +734,12 @@ http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/95603.m3u8
 http://38.52.209.82:8000/play/a060
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Deportes",Sky Sports La Liga
-http://190.92.10.66:4000/play/a001
+http://45.5.117.57:8200/play/a04e
 
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Deportes",Bein Sports Xtra Ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fox_Sports_3_MX.svg/revision/latest/scale-to-width-down/1000?cb=20241222132427" group-title="Deportes",Fox Sports 3
 http://45.167.255.254:8010/play/a047/index.m3u8
+
+

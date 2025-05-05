@@ -459,9 +459,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",Pluto TV Icons
 https://stitcher.pluto.tv/stitch/hls/channel/64b585f84ea480000838e446/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6785b98d688edb0008cb99be/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",Pluto TV ROCKY + Creed
-https://stitcher.pluto.tv/stitch/hls/channel/6785b98d688edb0008cb99be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",Pluto TV Action
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
 
@@ -491,6 +488,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",Pluto TV Thrillers
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",Pluto TV Horror
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica", Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
@@ -710,7 +710,6 @@ http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="USA",Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wi" group-title="USA",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8

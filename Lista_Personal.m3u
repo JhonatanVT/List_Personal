@@ -768,4 +768,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fox_Sports_3_MX.svg/revision/latest/scale-to-width-down/1000?cb=20241222132427" group-title="Deportes",Fox Sports 3
 http://45.167.255.254:8010/play/a047/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal 3 KMK
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
 

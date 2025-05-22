@@ -773,3 +773,9 @@ https://cloudvideo.servers10.com:8081/8120/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png" group-title="Costa Rica",Teletica Radio
 http://190.7.192.162:8007/play/s11
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Costa Rica", Colosal TV
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
+
+# Esta línea está comentada y no será procesada
+#http://38.52.209.82:8000/play/a060

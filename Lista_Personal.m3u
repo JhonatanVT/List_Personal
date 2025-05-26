@@ -21,7 +21,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 http://38.52.209.82:8000/play/a00l
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Cine y Series",TNT
-http://38.41.8.1:8000/play/a00s
+http://38.52.209.82:8000/play/a01h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine y Series",Cinecanal
 http://38.41.8.1:8000/play/a01r

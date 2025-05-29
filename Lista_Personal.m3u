@@ -786,5 +786,8 @@ http://8.242.178.28:8000/play/a0u3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Cine y Series",HBO MUNDI
 http://200.59.188.3:8000/play/a0pq
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="Cine y Series",Universal Cinema
+http://38.52.209.82:8000/play/a050
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

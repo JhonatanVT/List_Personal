@@ -789,5 +789,8 @@ http://200.59.188.3:8000/play/a0pq
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="Cine y Series",Universal Cinema
 http://38.52.209.82:8000/play/a050
 
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Cine y Series",MX Family
+http://45.184.87.142:8000/play/a03b
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

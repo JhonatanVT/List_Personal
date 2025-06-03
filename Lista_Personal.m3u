@@ -33,7 +33,7 @@ http://45.181.123.233:8000/play/a0l4
 http://45.181.123.233:8000/play/a182
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids & Geek",Cartoon Network
-http://187.102.208.83:50000/play/a0dt/index.m3u8
+http://38.52.209.82:8000/play/a00j
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Kids & Geek",Nickelodeon
 http://45.189.148.81:8000/play/a00n

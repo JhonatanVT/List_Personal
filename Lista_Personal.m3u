@@ -795,5 +795,8 @@ http://45.184.87.142:8000/play/a03b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Once_ni%C3%B1as_y_ni%C3%B1os_2020.svg" group-title="Kids & Geek",Once Niñas y Niños 
 http://45.167.255.254:8010/play/a01p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/5f/Canal_Infantil.png/revision/latest?cb=20230419185326&path-prefix=es" group-title="Kids & Geek",Canal Infantil
+http://181.78.71.49:12000/play/a0um
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

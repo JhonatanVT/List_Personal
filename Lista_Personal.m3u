@@ -813,5 +813,8 @@ http://201.219.11.179:7777/play/a2oi
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/TV12Honduras-2.png/revision/latest?cb=20171020230404" group-title="Entretenimiento",Canal 12 Honduras
 http://200.229.147.142:8000/play/a06w/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/500px-Canal_4_TCS.png" group-title="Entretenimiento",Canal 4 SV
+http://179.49.202.35:8015/play/a00q
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

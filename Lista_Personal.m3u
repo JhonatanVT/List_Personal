@@ -71,7 +71,7 @@ http://200.125.170.122:8000/play/a062
 http://45.186.106.207:8000/play/a00p
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="Culturales",Animal Planet
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/15.m3u8
+http://45.5.117.57:8200/play/a01j
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Culturales",National Geographic
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8

@@ -823,5 +823,8 @@ http://fl1.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/7/Hbo-PNG-HD-Quality.png" group-title="USA",HBO
 http://fl1.moveonjoy.com/HBO/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="USA",Discovery Family
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

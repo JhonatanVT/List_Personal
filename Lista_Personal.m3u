@@ -230,8 +230,8 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94894.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a47b82ce09b09fd7887281d2c9898e8c286d254625ada437071885503e6b1416.png" group-title="24/7",Dos Hombres y Medio
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37791.m3u8
-
+http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94870.m3u8 
+                             
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/644/978/png-transparent-doraemon-art-nobita-nobi-doraemon-logo-fujiko-fujio-anime-handcream-nobi-doraemon-logo.png" group-title="24/7",Doraemon
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37883.m3u8
 
@@ -825,6 +825,8 @@ http://fl1.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="USA",Discovery Family
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+
 
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

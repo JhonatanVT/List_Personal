@@ -838,5 +838,8 @@ http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94822.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/06/Demon-Slayer-Logo.png" group-title="24/7",Demon Slayer
 http://tv.zapping.life:8080/live/aarcila/8KqMg4kAWM/94890.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
+http://45.5.117.57:8200/play
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

@@ -847,5 +847,8 @@ http://190.61.117.35:8000/play/a06i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1200px-Sky_Sport_-_Logo_2020.svg.png" group-title="Deportes",Sky Sports
 http://179.49.114.94:8000/play/a07a
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TV_Azteca_Deportes_Network_2024.svg/revision/latest/scale-to-width-down/250?cb=20240201224901" group-title="Deportes",TV Azteca Deportes Network
+http://200.229.147.142:8000/play/a06v
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

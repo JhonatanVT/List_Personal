@@ -839,7 +839,7 @@ http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94822.m3u8
 http://tv.zapping.life:8080/live/aarcila/8KqMg4kAWM/94890.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
-http://45.5.117.57:8200/play
+http://45.5.117.57:8200/play/a04j
 
 #EXTINF:-1 tvg-logo="https://www.panama24horas.com.pa/wp-content/uploads/2022/09/VIX-CARD-y-NP8sept-10am.jpg" group-title="Deportes",Vix Premium La Liga
 http://190.61.117.35:8000/play/a06i

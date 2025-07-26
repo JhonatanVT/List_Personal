@@ -14,7 +14,7 @@ https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/194/408/png-clipart-costa-rica-repretel-4-repretel-6-television-channel-others-television-text-thumbnail.png" group-title="Costa Rica",Canal 4
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Costa Rica",Canal 6
+#EXTINF:-1 tvg-id="repretelCanal6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Costa Rica",Canal 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Cine y Series",HBO 2
@@ -79,7 +79,7 @@ http://179.61.31.142:8000/play/a0ff
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Culturales",Love Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica",Teletica Canal 7
+#EXTINF:-1 tvg-id="teletica.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica",Teletica Canal 7
 http://38.52.209.82:8000/play/a01r
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Multimedios_Televisi%C3%B3n_2015.svg/revision/latest?cb=20210723184654&path-prefix=es" group-title="Costa Rica",Multimedios Costa Rica

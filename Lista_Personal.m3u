@@ -2,19 +2,19 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml"
 
 
-#EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica",Canal Opa
+#EXTINF:-1 tvg-id="canalopa" tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica",Canal Opa
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Canal1logo.png/revision/latest?cb=20240828025119&path-prefix=es" group-title="Costa Rica",Canal 1
+#EXTINF:-1 tvg-id="canal1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Canal1logo.png/revision/latest?cb=20240828025119&path-prefix=es" group-title="Costa Rica",Canal 1
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica",CDR Canal 2
+#EXTINF:-1 tvg-id="cdrcanal2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica",CDR Canal 2
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/194/408/png-clipart-costa-rica-repretel-4-repretel-6-television-channel-others-television-text-thumbnail.png" group-title="Costa Rica",Canal 4
+#EXTINF:-1 tvg-id="canal4" tvg-logo="https://e7.pngegg.com/pngimages/194/408/png-clipart-costa-rica-repretel-4-repretel-6-television-channel-others-television-text-thumbnail.png" group-title="Costa Rica",Canal 4
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="repretelCanal6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Costa Rica",Canal 6
+#EXTINF:-1 tvg-id="canal6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Costa Rica",Canal 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Cine y Series",HBO 2
@@ -766,7 +766,7 @@ http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="USA",Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wi" group-title="USA",Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TyCSp.png" group-title="USA",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1

@@ -880,5 +880,8 @@ http://179.49.114.94:8000/play/a07a
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TV_Azteca_Deportes_Network_2024.svg/revision/latest/scale-to-width-down/250?cb=20240201224901" group-title="Deportes",TV Azteca Deportes Network
 http://200.229.147.142:8000/play/a06v
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-36-Lim%C3%B3n-en-vivo-Online.png" group-title="Costa Rica", Limon TV 
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

@@ -883,5 +883,8 @@ http://200.229.147.142:8000/play/a06v
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-36-Lim%C3%B3n-en-vivo-Online.png" group-title="Costa Rica", Limon TV 
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/5LVxsUeJoEk6qIyAct4JcpyiroUt3twaF6h7udsB.png" group-title="Costa Rica", Caribe TV
+https://giatv.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

@@ -886,8 +886,12 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/5LVxsUeJoEk6qIyAct4JcpyiroUt3twaF6h7udsB.png" group-title="Costa Rica", Caribe TV
 https://giatv.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="Costa Rica" group-title="Musicales", Vintage Music CR
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="Costa Rica", Vintage Music CR
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica",360 Rio Frio Television
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
+
 
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

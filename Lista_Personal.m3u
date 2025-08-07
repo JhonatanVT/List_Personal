@@ -30,7 +30,7 @@ http://45.181.123.233:8000/play/a0l4
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Cine y Series",Warner Channel
 http://45.181.123.233:8000/play/a182
 
-#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids & Geek",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids & Geek",Cartoon Network
 http://38.52.209.82:8000/play/a00j
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Kids & Geek",Nickelodeon
@@ -39,30 +39,30 @@ http://45.189.148.81:8000/play/a00n
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Kids & Geek",Disney Channel
 http://supersonictv.live:8080/Gloria1/Gloria1/61268
 
-#EXTINF:-1 tvg-id="Tooncast.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Kids & Geek",Tooncast
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Kids & Geek",Tooncast
 http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/150.m3u
 
-#EXTINF:-1 tvg-id="BitMe.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="Kids & Geek",Bitme
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="Kids & Geek",Bitme
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/163.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Entretenimiento",Telemundo
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Entretenimiento",Telemundo
 http://190.83.2.178:8009/play/a045
 
-#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/1200px-TCS_35_2017.png" group-title="Entretenimiento",TCS+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/1200px-TCS_35_2017.png" group-title="Entretenimiento",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral.lat" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="Entretenimiento",Comedy Central
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="Entretenimiento",Comedy Central
 http://38.52.209.82:8000/play/a04f
 
-#EXTINF:-1 tvg-id="MTV.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="Entretenimiento",MTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="Entretenimiento",MTV
 http://38.52.209.82:8000/play/a01p
 
-#EXTINF:-1 tvg-id="EEntertainment.lat" tvg-logo="https://w7.pngwing.com/pngs/675/820/png-transparent-e-television-show-television-channel-logo-tv-others-television-angle-rectangle.png" group-title="Entretenimiento",E!
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/675/820/png-transparent-e-television-show-television-channel-logo-tv-others-television-angle-rectangle.png" group-title="Entretenimiento",E!
 http://38.52.209.82:8000/play/a01v
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Culturales",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Culturales",Discovery Channel
 http://200.125.170.122:8000/play/a062
 
 #EXTINF:-1 tvg-id="History.lat" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="Culturales",History
@@ -80,10 +80,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="teletica.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica",Teletica Canal 7
 http://190.7.192.162:8007/play/s10
 
-#EXTINF:-1 tvg-id="Multimedios.cr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Multimedios_Televisi%C3%B3n_2015.svg/revision/latest?cb=20210723184654&path-prefix=es" group-title="Costa Rica",Multimedios Costa Rica
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Multimedios_Televisi%C3%B3n_2015.svg/revision/latest?cb=20210723184654&path-prefix=es" group-title="Costa Rica",Multimedios Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-id="UniversalReality.lat" tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="Entretenimiento",Universal Reality
+#EXTINF:-1 tvg-id="" tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="Entretenimiento",Universal Reality
 http://38.52.209.82:8000/play/a04k
 
 #EXTINF:-1 tvg-id="Canal10.cr" tvg-logo="https://i.postimg.cc/7LgLtLfX/cr10.jpg" group-title="Costa Rica",Canal 10
@@ -896,6 +896,8 @@ http://160.20.165.246:8000/play/a006
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="Cine y Series",A3 Series
 http://216.122.181.10:8081/play/a0hx
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Cine y Series",Universal Comedy
+http://200.229.147.142:8000/play/a03v
 
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

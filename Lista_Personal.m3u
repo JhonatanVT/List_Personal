@@ -894,7 +894,7 @@ https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 http://160.20.165.246:8000/play/a006
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="Cine y Series",A3 Series
-http://216.122.181.10:8081/play/a0hx
+http://160.20.165.246:8000/play/a00f
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Cine y Series",Universal Comedy
 http://200.229.147.142:8000/play/a03v

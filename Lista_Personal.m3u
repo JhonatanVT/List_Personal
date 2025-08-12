@@ -902,5 +902,8 @@ http://200.229.147.142:8000/play/a03v
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="Cine y Series",FMH Family
 http://160.20.165.246:8000/play/a01j
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png" group-title="Kids & Geek",Paka Paka
+http://200.121.48.17:8000/play/a0de
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

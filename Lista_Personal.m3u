@@ -905,5 +905,8 @@ http://160.20.165.246:8000/play/a01j
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png" group-title="Kids & Geek",Paka Paka
 http://200.121.48.17:8000/play/a0de
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="Kids & Geek",Canal Ipe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

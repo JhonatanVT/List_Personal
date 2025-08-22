@@ -923,5 +923,8 @@ http://181.78.27.128:12543/play/a03g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="Entretenimiento", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Entretenimiento" , ATV Sur
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

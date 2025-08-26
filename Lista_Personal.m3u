@@ -222,7 +222,7 @@ http://143.244.60.30/TBS/index.m3u8
 http://fl1.moveonjoy.com/MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.us" tvg-logo="https://seeklogo.com/images/B/bravo-tv-logo-9E97EDC900-seeklogo.com.png" group-title="USA",Bravo TV
-http://fl2.moveonjoy.com/BRAVO/index.m3u8
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="24/7",Dragon Ball
 http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94894.m3u8

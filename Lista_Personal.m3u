@@ -418,7 +418,7 @@ http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="USA",TLC
-http://fl2.moveonjoy.com/TLC/index.m3u8
+http://fl1.moveonjoy.com/TLC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/553/371/png-transparent-bel-air-television-show-sitcom-the-fresh-prince-of-bel-air-season-6-kd-logo-television-text-logo.png" group-title="24/7",El Principe del Rap
 https://bgtv.xyz/play/play-926.php?ul=430&token=asdfasdasdfggh

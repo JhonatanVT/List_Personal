@@ -412,7 +412,7 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w561164806.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="USA",Cartoon Network
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="USA",E! 
 http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8

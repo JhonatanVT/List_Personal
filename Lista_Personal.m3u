@@ -926,5 +926,8 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Entretenimiento" , ATV Sur
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/40y20showlogo.png" group-title="24/7", 40 y 20
+http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94844.m3u8
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

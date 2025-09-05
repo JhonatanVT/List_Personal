@@ -932,5 +932,8 @@ http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94844.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/American_dad_logo.svg/1200px-American_dad_logo.svg.png" group-title="24/7", American Dad
 http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94874.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.pngarts.com/files/12/La-Casa-De-Papel-Logo-PNG-Image.png" group-title="24/7", La Casa de Papel
+http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/95606.m3u8
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

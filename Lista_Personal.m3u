@@ -935,5 +935,8 @@ http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94874.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngarts.com/files/12/La-Casa-De-Papel-Logo-PNG-Image.png" group-title="24/7", La Casa de Papel
 http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/95606.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7", Dragon Ball Super
+https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

@@ -944,5 +944,8 @@ http://200.60.124.19:29000/play/a01e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Deportes", Golf Channel
 http://200.92.227.238:8000/play/a0mk
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/1024px-Gol_Per%C3%BA_2019.svg.png" group-title="Deportes", Gol Peru
+http://181.176.18.213:18000/play/a0fy
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

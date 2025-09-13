@@ -947,5 +947,8 @@ http://200.92.227.238:8000/play/a0mk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/1024px-Gol_Per%C3%BA_2019.svg.png" group-title="Deportes", Gol Peru
 http://181.176.18.213:18000/play/a0fy
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/CanalDeportesTVCHonduras2023.png/revision/latest/scale-to-width-down/1200?cb=20231125021040&path-prefix=es" group-title="Deportes", Deportes TVC
+http://190.92.10.66:4000/play/a008
+
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

@@ -677,6 +677,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/67f960680072d6b187a0682e/master.m3u
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Pluto TV Series de Acción
 https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica", Rookie Blue: Policías Novatos
+https://stitcher.pluto.tv/stitch/hls/channel/64ff270f30ab3300084e259c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
+
 #EXTINF:-1 tvg-logo="https://urbanotvcr.com/wp-content/uploads/2023/04/cropped-logo-tv-blanco.png" group-title="Costa Rica",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 

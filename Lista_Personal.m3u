@@ -981,7 +981,10 @@ http://181.176.18.213:18000/play/a0fy
 http://190.92.10.66:4000/play/a008
 
 #EXTINF:-1 tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Costa Rica",88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8`
+
+#EXTINF:-1 tvg-logo="https://cartagomedios.com/wp-content/uploads/2025/04/cropped-Logo-Color.webp" group-title="Costa Rica",Cartago Medios TV
+https://acceso.radiosportstv.online:3368/live/cartagomediostvlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8

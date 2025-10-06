@@ -16,7 +16,7 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Cine y Series",HBO 2
-http://190.61.117.35:8000/play/a02q
+http://45.184.87.142:8000/play/a05a
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Cine y Series",TNT
 http://38.52.209.82:8000/play/a04b
@@ -997,6 +997,10 @@ https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="",HBO FAMILY
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disneychannel/images/2/25/Disney_Channel_2024_logo.png/revision/latest?cb=20240924230416" group-title="",Disney Channel
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+
 
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

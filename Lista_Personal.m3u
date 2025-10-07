@@ -992,6 +992,9 @@ https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 #EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2025/03/LOGO-GARABITO-TV.png" group-title="Costa Rica",Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/axn/images/d/d7/AXN_logo_%282015%29.svg.png/revision/latest?cb=20250203023306&path-prefix=es" group-title="Cine y Series",AXN
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -1000,6 +1003,10 @@ http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disneychannel/images/2/25/Disney_Channel_2024_logo.png/revision/latest?cb=20240924230416" group-title="",Disney Channel
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="",HBO SIGNATURE
+http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
+
 
 
 # Esta línea está comentada y no será procesada

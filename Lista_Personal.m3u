@@ -998,6 +998,9 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/2/tnt-series-latin-america-logo-png_seeklogo-298607.png" group-title="Cine y Series",TNT Series
 http://45.181.122.46:8090/play/a01k
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/d/dd/UniversalPremiere.png/revision/latest?cb=20240130200911&path-prefix=es" group-title="Cine y Series",Universal Premiere
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278476.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -1013,8 +1016,8 @@ http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/rarter/images/d/da/HBO_Xtreme.png/revision/latest?cb=20231129030621" group-title="",HBO EXTREME
 http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d2/Logosonychannellatam2023.png/revision/latest/scale-to-width-down/340?cb=20230823143737&path-prefix=es" group-title="",SONY
+http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
 
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

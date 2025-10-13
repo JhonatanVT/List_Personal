@@ -34,7 +34,7 @@ http://45.181.123.233:8000/play/a182
 http://45.5.117.57:8200/play/a05p
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Kids & Geek",Nickelodeon
-http://45.189.148.81:8000/play/a00n
+http://45.184.87.142:8000/play/a01s
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Kids & Geek",Disney Channel
 http://supersonictv.live:8080/Gloria1/Gloria1/61268
@@ -1024,6 +1024,10 @@ http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/768px-TNT.svg.png" group-title="",TNT
 http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqt4OL-uBxFKPeIVA9FzYzIzxwb6wiaxfxKRoGHU_AmJyApzQ1BJvNAWQiTbpu0ovdOs9JbmqZ2_gv2MGoaeWnEGN9hHsu38zXLKHfGx9BgvuutjS34dP_IwZMSGuSjp05ghzYYqjphxM/s1141/HBO-plus-2019.png" group-title="",HBO PLUS
+http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
+
 
 # Esta línea está comentada y no será procesada
 #http://38.52.209.82:8000/play/a060

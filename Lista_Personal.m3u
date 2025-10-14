@@ -1004,6 +1004,9 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278476.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="Cine y Series",FMH Movies
 http://38.211.145.109:8000/play/a04a/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDqSu3IGuMagMbZTu6PNvPM9-EvPiwoVz1Q8ZDY22MwNssria7MwMEKN-yGMAkSnbemBRwFNYa6QLWMGMjclgZPzUgEOK4WW3J2hnCt0mx_xkaNipVYdoqmV_FV5TKKlYRS0wAb-_RcaN3wZWdOsKz9rdfHMx5dyOPhzRR_Jz8UxKdd3UOIgvd8uO28J0/s396/plimplim.png" group-title="Kids & Geek",Plim Plim TV
+http://200.115.120.1:8000/play/ca091/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -1027,6 +1030,10 @@ http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqt4OL-uBxFKPeIVA9FzYzIzxwb6wiaxfxKRoGHU_AmJyApzQ1BJvNAWQiTbpu0ovdOs9JbmqZ2_gv2MGoaeWnEGN9hHsu38zXLKHfGx9BgvuutjS34dP_IwZMSGuSjp05ghzYYqjphxM/s1141/HBO-plus-2019.png" group-title="",HBO PLUS
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="",Universo
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
 
 
 # Esta línea está comentada y no será procesada

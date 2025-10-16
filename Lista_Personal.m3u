@@ -1010,6 +1010,9 @@ http://200.115.120.1:8000/play/ca091/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/123TV_logo_original.png" group-title="Kids & Geek",123 TV
 http://38.41.8.1:8000/play/a03o
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="Kids & Geek",Animestation 2
+https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -1039,6 +1042,9 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/comedy-central-1-logo-png-transparent.png" group-title="",Comedy Central
 http://190.11.225.124:5000/live/comedycentral_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/fictional-cable-channels/images/9/9f/Dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png/revision/latest?cb=20240713231335" group-title="",Warner Channel
+http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
 
 
 

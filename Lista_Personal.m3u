@@ -1013,6 +1013,9 @@ http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="Kids & Geek",Animestation 2
 https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="Kids & Geek",GoGoPlay TV
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -1046,6 +1049,8 @@ http://190.11.225.124:5000/live/comedycentral_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/fictional-cable-channels/images/9/9f/Dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png/revision/latest?cb=20240713231335" group-title="",Warner Channel
 http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2013.png" group-title="",AMC
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 
 
 

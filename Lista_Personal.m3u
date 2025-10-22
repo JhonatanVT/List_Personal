@@ -1019,6 +1019,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/250px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="Entretenimiento",Canal 4 NIC
 https://www.dailymotion.com/cdn/live/video/x7rwv8c.m3u8?sec=AtdlsUF1umfmn3_JCkL_rLIsihIy9s7usOao2jeo-hbktSJbbZU_I8i5CRvrcTyfU70S7KFU0s4oUEGdpXePrw&dmTs=468823&dmV1st=fef6c01d-c883-454e-8419-fb3bc5195d00
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Entretenimiento",Antena 21 RD
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -1060,6 +1063,10 @@ http://190.11.225.124:5000/live/space_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FX
 http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="",NatGeo
+http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
+
 
 
 

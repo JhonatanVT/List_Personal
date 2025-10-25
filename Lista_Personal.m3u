@@ -1025,6 +1025,9 @@ https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/YSTVE-TDT_%28Canal_10%29.svg/revision/latest/scale-to-width-down/300?cb=20210620213450&path-prefix=es" group-title="Entretenimiento",Canal 10 SV
 http://190.61.34.164:8000/play/a00o
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png/revision/latest/scale-to-width-down/250?cb=20190120231232" group-title="Entretenimiento",La Tele
+http://38.44.109.41:8003/play/a01m
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -1070,9 +1073,11 @@ http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="",NatGeo
 http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Animal_Planet_1996.svg/revision/latest?cb=20200209143632&path-prefix=es" group-title="",Animal Planet
  http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1923px-Logo_Azteca_7_1999.svg.png" group-title="",Azteca 7
+http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 
 
 

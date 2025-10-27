@@ -945,7 +945,7 @@ https://stmv4.voxtvhd.com.br/tv101/tv101/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXfHKV7.png" group-title="Entretenimiento",Canal 2 NIC
-http://181.78.106.127:9000/play/a0r4
+http://181.78.106.127:9000/play/a0py
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="Entretenimiento",Sur Tv Itapua
 http://181.78.27.128:12543/play/a03g
@@ -1017,7 +1017,7 @@ https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/250px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="Entretenimiento",Canal 4 NIC
-https://www.dailymotion.com/cdn/live/video/x7rwv8c.m3u8?sec=AtdlsUF1umfmn3_JCkL_rLIsihIy9s7usOao2jeo-hbktSJbbZU_I8i5CRvrcTyfU70S7KFU0s4oUEGdpXePrw&dmTs=468823&dmV1st=fef6c01d-c883-454e-8419-fb3bc5195d00
+http://181.78.106.127:9000/play/a0r4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Entretenimiento",Antena 21 RD
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8

@@ -1034,6 +1034,9 @@ http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png" group-title="USA",MeTV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia-fanon/images/a/af/Starz_Comedy_2022.svg/revision/latest?cb=20240509202614" group-title="USA",Starz Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -1085,11 +1088,11 @@ http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1923px-Logo_Azteca_7_1999.svg.png" group-title="",Azteca 7
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png" group-title="",AXN
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png/revision/latest?cb=20171106201618" group-title="",AzCinema
 http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AXN
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 
 
 

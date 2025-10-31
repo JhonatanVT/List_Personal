@@ -1037,8 +1037,11 @@ http://fl2.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia-fanon/images/a/af/Starz_Comedy_2022.svg/revision/latest?cb=20240509202614" group-title="USA",Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/870x486/image/6482e6fc25dd2/uploads/media/MicrosoftTeams-image_(43).png" group-title="USA",beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+http://200.115.96.61:9090/play/a0ii/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="",HBO FAMILY
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8

@@ -150,7 +150,7 @@ http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 http://143.244.60.30/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA",NBC
-http://143.244.60.30/NBC_EAST/index.m3u8
+http://200.125.170.122:8000/play/a05o
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica",Sinart Canal 13
 https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
@@ -1096,6 +1096,10 @@ http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AXN
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disneyypixar/images/4/45/BabyTV.png/revision/latest?cb=20241128050948&path-prefix=es" group-title="",Baby TV
+http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
+
 
 
 

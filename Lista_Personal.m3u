@@ -225,7 +225,7 @@ http://fl1.moveonjoy.com/MTV/index.m3u8
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="24/7",Dragon Ball
-http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94894.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/293817.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a47b82ce09b09fd7887281d2c9898e8c286d254625ada437071885503e6b1416.png" group-title="24/7",Dos Hombres y Medio
 http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94870.m3u8 
@@ -1100,6 +1100,8 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disneyypixar/images/4/45/BabyTV.png/revision/latest?cb=20241128050948&path-prefix=es" group-title="",Baby TV
 http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bandamax
+http://190.11.225.124:5000/live/bandamax/playlist.m3u8
 
 
 

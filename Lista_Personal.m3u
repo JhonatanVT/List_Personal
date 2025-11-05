@@ -231,7 +231,7 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/293817.m3u8
 http://ultra-premium-pro.xyz:8080/Deyaniracabezas7u6b5d3a1k/sFtXpsNZG3/701
                              
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2c/Doraemon_logo_Grafico.png/revision/latest?cb=20230626191909&path-prefix=es" group-title="24/7",Doraemon
-http://tv.zapping.life:8080/live/aarcila/8KqMg4kAWM/94893.m3u8
+http://streamprostk.com:2082/sebmar1606/mar6040/56011
 
 #EXTINF:-1 tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeYlfya8eDCM4bnyB1JibWmJo_Zp-spwab1M1YEOU1Gu0BObUNr3uBHNy7Y6DErBdnz976u2H_U0SIg8uz7FvgFPkgNWmcZDL4gDjnD9KDP_.png?r=e13" group-title="24/7",Sex and the City
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37749.m3u8
@@ -1105,6 +1105,10 @@ http://190.11.225.124:5000/live/bandamax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Canal 5
 http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Las Estrellas
+http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
+
 
 
 

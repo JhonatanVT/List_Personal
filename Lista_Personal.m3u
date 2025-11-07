@@ -331,7 +331,7 @@ http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oYh2m4J_PKE8yIm6L7nVJMRmTC1Ku2
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/700
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Game-of-Thrones-logo.png" group-title="24/7",Game of Thrones
-http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/262945.m3u
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168741.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Animaniacs_1993.png/revision/latest?cb=20200407005852&path-prefix=es" group-title="24/7",Animaniacs
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/795
@@ -1108,6 +1108,10 @@ http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Las Estrellas
 http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cartoonito
+http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
+
 
 
 

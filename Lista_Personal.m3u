@@ -225,7 +225,7 @@ http://fl1.moveonjoy.com/MTV/index.m3u8
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="24/7",Dragon Ball
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/293817.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279024.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a47b82ce09b09fd7887281d2c9898e8c286d254625ada437071885503e6b1416.png" group-title="24/7",Dos Hombres y Medio
 http://ultra-premium-pro.xyz:8080/Deyaniracabezas7u6b5d3a1k/sFtXpsNZG3/701
@@ -234,7 +234,7 @@ http://ultra-premium-pro.xyz:8080/Deyaniracabezas7u6b5d3a1k/sFtXpsNZG3/701
 http://streamprostk.com:2082/sebmar1606/mar6040/56011
 
 #EXTINF:-1 tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeYlfya8eDCM4bnyB1JibWmJo_Zp-spwab1M1YEOU1Gu0BObUNr3uBHNy7Y6DErBdnz976u2H_U0SIg8uz7FvgFPkgNWmcZDL4gDjnD9KDP_.png?r=e13" group-title="24/7",Sex and the City
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37749.m3u8
+http://tv.zapping.life:8080/dantherip/BhrhsLJWvy/94864
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TheCriticLogo.svg/1200px-TheCriticLogo.svg.png" group-title="24/7",El Critico
 https://archive.org/serve/3l-cr171c0/01.ia.mp4
@@ -1111,6 +1111,10 @@ http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cartoonito
 http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",De Pelicula
+http://190.11.225.124:5000/live/depelicula/playlist.m3u8
+
 
 
 

@@ -337,7 +337,7 @@ http://tv.zapping.life:8080/dantherip/BhrhsLJWvy/94830
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/795
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN
-http://200.125.170.122:8000/play/a05v
+http://200.229.147.142:8000/play/a05v
 
 #EXTINF:-1 tvg-logo="https://futvcr.com/wp-content/uploads/2023/08/WhatsApp_Image_2023-08-01_at_15.28.48-removebg-preview.png" group-title="Deportes",FUTV
 http://200.92.227.238:8000/play/a0ta
@@ -1114,6 +1114,10 @@ http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",De Pelicula
 http://190.11.225.124:5000/live/depelicula/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DHE
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+
 
 
 

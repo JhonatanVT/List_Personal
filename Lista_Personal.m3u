@@ -1040,6 +1040,9 @@ http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/870x486/image/6482e6fc25dd2/uploads/media/MicrosoftTeams-image_(43).png" group-title="USA",beIN Sports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
+https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1118,6 +1121,8 @@ http://190.11.225.124:5000/live/depelicula/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DHE
 http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN 2
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
 
 
 

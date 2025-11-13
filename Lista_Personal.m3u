@@ -1046,6 +1046,9 @@ https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VzB-Nc9ymeI/maxresdefault.jpg" group-title="Deportes",VIX TUDN
 http://104.238.205.28:8989/278570_.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png" group-title="Deportes",Deportv
+http://104.238.205.28:8989/278756_.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1129,6 +1132,9 @@ http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN 3
 http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Golden
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
 
 
 

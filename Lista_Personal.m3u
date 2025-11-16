@@ -1041,7 +1041,7 @@ http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
-https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+http://104.243.40.13:8989/279426_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VzB-Nc9ymeI/maxresdefault.jpg" group-title="Deportes",VIX TUDN
 http://104.238.205.28:8989/278570_.m3u8

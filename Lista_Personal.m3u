@@ -683,6 +683,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/678aa0b3680721c77c5035dd/master.m3u
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Pluto TV Star Trek
 https://stitcher.pluto.tv/stitch/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Pluto TV Series de Sci-Fi
+https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Pluto TV Series de Crimen
 https://stitcher.pluto.tv/stitch/hls/channel/655f62ff954b020008c91ec6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003
 
@@ -1181,7 +1184,8 @@ http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Universal Channel
 http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Univision
+http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
 
 
 

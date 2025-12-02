@@ -4,7 +4,7 @@
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Canal1logo.png/revision/latest?cb=20240828025119&path-prefix=es" group-title="Costa Rica",Canal 1
-https://video20.klm99.com:3993/live/canal1crlive.m3u8
+https://vid.canal1cr.com:3424/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica",CDR Canal 2
 http://190.7.192.164:8018/play/s46

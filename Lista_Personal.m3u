@@ -1082,6 +1082,9 @@ http://104.238.205.28:8989/278756_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TVC_Deportes_2015.png" group-title="Deportes",TVC Deportes
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278563.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/XperTV2015.png" group-title="Costa Rica",Xpertv
+http://45.163.139.42:8000/play/a02x
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

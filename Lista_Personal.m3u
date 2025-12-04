@@ -1085,6 +1085,10 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278563.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/XperTV2015.png" group-title="Costa Rica",Xpertv
 http://45.163.139.42:8000/play/a02x
 
+#EXTINF:-1 tvg-logo="https://www.transdatelecom.com/images/2021/02/04/logosc.png" group-title="Costa Rica",Super Cable Canal 5
+https://usher.ttvnw.net/api/v2/channel/hls/supercabletv.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

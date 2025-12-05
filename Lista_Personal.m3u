@@ -1088,6 +1088,8 @@ http://45.163.139.42:8000/play/a02x
 #EXTINF:-1 tvg-logo="https://www.transdatelecom.com/images/2021/02/04/logosc.png" group-title="Costa Rica",Super Cable Canal 5
 https://usher.ttvnw.net/api/v2/channel/hls/supercabletv.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.iqmedios.com/imgsnuevas/bannerIQChannel.png" group-title="Costa Rica", IQ Channel
+http://tv.ticosmedia.com:1935/IQ/IQ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
@@ -1205,6 +1207,9 @@ http://104.238.205.28:8989/278392_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Disney Animacion
 http://tv.zapping.life:8080/dantherip/BhrhsLJWvy/95622
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Los Super Amigos
+http://iptv.tvxtremegold.com:8080/FarithMiranda/123456/38921
 
 
 

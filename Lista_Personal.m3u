@@ -1085,8 +1085,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278563.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/XperTV2015.png" group-title="Costa Rica",Xpertv
 http://45.163.139.42:8000/play/a02x
 
-#EXTINF:-1 tvg-logo="https://www.transdatelecom.com/images/2021/02/04/logosc.png" group-title="Costa Rica",Super Cable Canal 5
-https://usher.ttvnw.net/api/v2/channel/hls/supercabletv.m3u8
+#EXTINF:-1 tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Costa Rica",Gex TV
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/f9cd3117-e95c-4406-8f7f-e178cdef05b0/IQ-Channel.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-f9cd3117-e95c-4406-8f7f-e178cdef05b0-oBgaIj2" group-title="Costa Rica", IQ Channel
 http://tv.ticosmedia.com:1935/IQ/IQ/playlist.m3u8

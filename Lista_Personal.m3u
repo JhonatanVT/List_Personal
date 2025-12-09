@@ -1094,6 +1094,9 @@ http://tv.ticosmedia.com:1935/IQ/IQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="Costa Rica",Retrox TV
 https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="Cine y Series",Panico
+http://200.229.147.142:8000/play/a060
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1218,7 +1221,7 @@ http://iptv.tvxtremegold.com:8080/FarithMiranda/123456/38921
 http://38.211.145.109:8000/play/a044
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FMH Kids
-http://45.184.87.142:8000/play/a01u
+http://181.119.85.222:8000/play/a03a
 
 
 

@@ -19,7 +19,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 http://45.184.87.142:8000/play/a05a
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Cine y Series",TNT
-http://38.52.209.82:8000/play/a04b
+http://181.78.106.127:9000/play/ca077
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine y Series",Cinecanal
 http://38.41.8.1:8000/play/a01r
@@ -1216,6 +1216,9 @@ http://iptv.tvxtremegold.com:8080/FarithMiranda/123456/38921
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Animotion
 http://38.211.145.109:8000/play/a044
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FMH Kids
+http://45.184.87.142:8000/play/a01u
 
 
 

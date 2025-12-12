@@ -1103,6 +1103,9 @@ https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/fc/Skskskksks.png/revision/latest?cb=20240430152411" group-title="Cine y Series",Cine Premium
 http://200.229.147.142:8000/play/a082
 
+#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_kids.png" group-title="Cine y Series",FMH Kids
+http://181.119.85.222:8000/play/a03a
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1231,6 +1234,9 @@ http://181.119.85.222:8000/play/a03a
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sony
 https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO Signature
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
 
 
 

@@ -1100,6 +1100,9 @@ http://200.229.147.142:8000/play/a060
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="Cine y Series",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Cine Premium
+http://200.229.147.142:8000/play/a082
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1221,7 +1224,7 @@ http://tv.zapping.life:8080/dantherip/BhrhsLJWvy/95622
 http://iptv.tvxtremegold.com:8080/FarithMiranda/123456/38921
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Animotion
-http://38.211.145.109:8000/play/a044
+http://45.173.201.51:4000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FMH Kids
 http://181.119.85.222:8000/play/a03a

@@ -37,7 +37,7 @@ http://45.5.117.57:8200/play/a05p
 http://45.184.87.142:8000/play/a01s
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Kids & Geek",Disney Channel
-http://supersonictv.live:8080/Gloria1/Gloria1/61268
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Kids & Geek",Tooncast
 http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/150.m3u
@@ -1218,7 +1218,7 @@ http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AdultSwim 
-http://104.238.205.28:8989/278392_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278392.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Disney Animacion
 http://tv.zapping.life:8080/dantherip/BhrhsLJWvy/95622

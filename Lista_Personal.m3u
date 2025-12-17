@@ -1109,6 +1109,9 @@ http://181.119.85.222:8000/play/a03a
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disneyypixar/images/4/45/BabyTV.png/revision/latest?cb=20241128050948&path-prefix=es" group-title="Kids & Geek",Baby TV
 http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4c/Locomotion_logo.png/revision/latest?cb=20190530025844" group-title="Kids & Geek",Locomotion 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1240,6 +1243,11 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN Deportes
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279426.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DSports
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278892.m3u8
+
+
 
 
 

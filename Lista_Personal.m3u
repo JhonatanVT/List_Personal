@@ -1115,6 +1115,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nzVsHRLF/animotion2.jpg" group-title="Kids & Geek",Animotion
 http://45.173.201.51:4000/play/a01e/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png?format=1500w" group-title="Kids & Geek",Zoomoo
+http://177.234.230.206:8011/play/a09g
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1249,6 +1252,9 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278892.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mazinger
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168765.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Prueba
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168768.m3u8
 
 
 

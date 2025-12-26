@@ -1121,6 +1121,9 @@ http://177.234.230.206:8011/play/a09g
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Canal_6_Nicaragua_2017.png/revision/latest/scale-to-width-down/250?cb=20180502202232" group-title="Entretenimiento",Canal 6 NIC
 http://200.92.227.238:8000/play/a0s9
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="Entretenimiento",Antena 21 RD
+https://d2qsan2ut81n2k.cloudfront.net/live/3bc8d309-7e74-46ec-bb09-18afc6de1e86/ts:abr.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1257,7 +1260,7 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278892.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168765.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Prueba
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168770.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168771.m3u8
 
 
 

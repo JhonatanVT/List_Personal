@@ -1130,6 +1130,9 @@ https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/d5c3ad0/2147483647/strip/true/crop/1665x1152+0+0/resize/400x277!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F0d%2F757573ac4c0bba7301c7a61a424d%2Flogo-latele.png" group-title="Entretenimiento",La Tele PY
 https://rds3tf.desdeparaguay.net/latele/latele_int_baja/chunklist_w540448195.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/full/210-2102273_espn-2-white-espn-logo.png" group-title="USA",ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1265,8 +1268,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278892.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mazinger
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168765.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Prueba
-http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168773.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Las Sombrias Aventuras de Billy y Mandy
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279009.m3u8
 
 
 

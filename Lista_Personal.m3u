@@ -1133,6 +1133,9 @@ https://rds3tf.desdeparaguay.net/latele/latele_int_baja/chunklist_w540448195.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/full/210-2102273_espn-2-white-espn-logo.png" group-title="USA",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://sc.dish.com/shared/images/station-logos/SUND.png" group-title="USA",Sundance
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1270,6 +1273,9 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168765.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Las Sombrias Aventuras de Billy y Mandy
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279009.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Los Simpson 1-5
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279042.m3u8
 
 
 

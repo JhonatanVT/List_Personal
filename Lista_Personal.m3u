@@ -1139,6 +1139,9 @@ http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="USA",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="USA",VH1
+https://fl1.moveonjoy.com/VH1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1283,6 +1286,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279042.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Los Simpson 6-11
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279041.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Los Simpson 12-17
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279043.m3u8
 
 
 

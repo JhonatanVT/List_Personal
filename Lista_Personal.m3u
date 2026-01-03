@@ -144,7 +144,7 @@ http://138.59.177.34:8000/play/a00v/index.m3u8
 http://143.244.60.30/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png" group-title="USA",CBS
-http://fl1.moveonjoy.com/CBSEAST/index.m3u8
+https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/2560px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="USA",FOX
 http://143.244.60.30/FOX_EAST/index.m3u8
@@ -1288,6 +1288,9 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279041.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Los Simpson 12-17
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279043.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Malcolm el del Medio
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279046.m3u8
 
 
 

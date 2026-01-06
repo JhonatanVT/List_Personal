@@ -324,7 +324,7 @@ https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/HBO_2_NL.svg/revision/latest?cb=20220904091147" group-title="USA",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MrBeanLogo.png/640px-MrBeanLogo.png" group-title="24/7",Mr.Bean
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MrBeanLogo.png/640px-MrBeanLogo.png" group-title="24/7",Mr Bean
 http://xpaneltv.com:8080/RodPan/73618366/301943
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png/2560px-Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png" group-title="24/7",Ranma 1/2
@@ -1142,6 +1142,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="USA",VH1
 https://fl1.moveonjoy.com/VH1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MacGyver_logo.svg/2560px-MacGyver_logo.svg.png" group-title="24/7",MacGyver
+http://xpaneltv.com:8080/RodPan/73618366/107900
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1292,6 +1295,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279043.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Malcolm el del Medio
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279046.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://caribbeancinemas.com/RD/cinekids/img/logo.png" group-title="",Cine Niños
+http://45.184.87.142:8000/play/a051
 
 
 

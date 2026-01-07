@@ -1145,6 +1145,9 @@ https://fl1.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MacGyver_logo.svg/2560px-MacGyver_logo.svg.png" group-title="24/7",MacGyver
 http://xpaneltv.com:8080/RodPan/73618366/107900
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://pixel.disco.skyshowtime.com/uuid/a4ae0604-cb50-3f55-a74f-92026cf94818/LOGO_TITLE_WIDE?language=es-ES&proposition=SKYSHOWTIME&version=6ccbec09-5616-3215-8273-9a4d1e4fa128" group-title="24/7",La Leyenda de Korra
+http://xpaneltv.com:8080/RodPan/73618366/106192
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1298,6 +1301,8 @@ http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279046.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://caribbeancinemas.com/RD/cinekids/img/logo.png" group-title="",Cine Niños
 http://45.184.87.142:8000/play/a051
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Universal Reality
+http://disfruta.net/live/danielipdiscord/bLbiWJmAFm/14afd3b7-082a-48f2-84d4-ad3c0c806aa1.m3u
 
 
 

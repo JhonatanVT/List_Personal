@@ -1148,6 +1148,9 @@ http://xpaneltv.com:8080/RodPan/73618366/107900
 #EXTINF:-1 tvg-id="" tvg-logo="https://pixel.disco.skyshowtime.com/uuid/a4ae0604-cb50-3f55-a74f-92026cf94818/LOGO_TITLE_WIDE?language=es-ES&proposition=SKYSHOWTIME&version=6ccbec09-5616-3215-8273-9a4d1e4fa128" group-title="24/7",La Leyenda de Korra
 http://xpaneltv.com:8080/RodPan/73618366/106192
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sabrina_the_Teenage_Witch_%281996_TV_series%29_official_logo.svg/1200px-Sabrina_the_Teenage_Witch_%281996_TV_series%29_official_logo.svg.png" group-title="24/7",Sabrina la bruja Adolescente
+http://iptv.tvxtremegold.com:8080/FarithMiranda/123456/104896
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1304,6 +1307,8 @@ http://45.184.87.142:8000/play/a051
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Universal Reality
 http://disfruta.net/live/danielipdiscord/bLbiWJmAFm/14afd3b7-082a-48f2-84d4-ad3c0c806aa1.m3u
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Random Kids
+http://38.252.213.10:9000/play/a049
 
 
 

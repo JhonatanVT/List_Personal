@@ -346,7 +346,7 @@ http://200.92.227.238:8000/play/a0ta
 http://38.183.183.249:8000/play/a0gl
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest?cb=20231117062910" group-title="Deportes",Fox Sports Premium
-http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/540
+http://xpaneltv.com:8080/RodPan/73618366/172164
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/TUDNlogo.png/revision/latest?cb=20190721040715&path-prefix=es" group-title="Deportes",TUDN
 http://170.82.37.21:8000/play/a015
@@ -1315,6 +1315,9 @@ http://38.252.213.10:9000/play/a049
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Heidi
 http://xpaneltv.com:8080/RodPan/73618366/299680
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Kids TV 
+http://45.167.255.254:8010/play/a013/index.m3u8
 
 
 

@@ -441,7 +441,7 @@ http://190.211.102.42:4000/play/a086/index.m3u8
 http://190.61.106.107:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2560px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
-http://181.78.105.146:6060/play/a05a
+http://200.229.147.142:8000/play/a06o
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Deportes",TyC Sports
 http://38.41.8.1:8000/play/a02i
@@ -1281,7 +1281,7 @@ https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278505.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN Deportes
-https://tvgolat.org:8443/play/xo1Ic4o8xub_j96_rjMj0OtwN8o0s-GXg657QWtmuBTQPkgBkzp_10gB50Z0AAfo/m3u8
+http://disfruta.net/live/danielipdiscord/bLbiWJmAFm/9db9023b-972f-4776-aecf-5386bae176db.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DSports
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278892.m3u8

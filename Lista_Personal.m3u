@@ -346,7 +346,7 @@ http://200.92.227.238:8000/play/a0ta
 http://38.183.183.249:8000/play/a0gl
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest?cb=20231117062910" group-title="Deportes",Fox Sports Premium
-http://xpaneltv.com:8080/RodPan/73618366/172164
+http://xpaneltv.com:80
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/TUDNlogo.png/revision/latest?cb=20190721040715&path-prefix=es" group-title="Deportes",TUDN
 http://200.229.147.142:8000/play/a096
@@ -444,7 +444,7 @@ http://200.229.147.142:8000/play/a03i
 http://200.229.147.142:8000/play/a06o
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Deportes",TyC Sports
-http://38.41.8.1:8000/play/a02i
+http://200.229.147.142:8000/play/a08e
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",Pluto TV Trending Now
 https://stitcher.pluto.tv/stitch/hls/channel/673247127d5da5000817b4d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cd96a28f-f535-11eb-8a49-0242ac110003

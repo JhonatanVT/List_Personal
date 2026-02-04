@@ -159,7 +159,7 @@ http://190.7.192.164:8023/play/s28
 http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2560px-Logo_Extra_TV_42.svg.png" group-title="Costa Rica",Extra TV 42
-http://204.157.251.250:8000/play/a06l/index.m3u8
+https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/S8ftk5LvOxi_QTHxZOngNYwq-EZXy0b-ctHCYgfDZ8_gGD5UvXNUiwheZRe5BmUczgnm" group-title="Costa Rica",TeleRed
 https://k20.usastreams.com:8081/telered/index.m3u8

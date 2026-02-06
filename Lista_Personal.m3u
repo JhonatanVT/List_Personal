@@ -265,7 +265,7 @@ https://archive.org/download/3l-cr171c0/El%20Critico%20T02E10.mp4
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EcGmj5Qy2FZ4YIuEj1b5gnP_QQSAa_jXjoAD0dkxlB3Q77AlieXQLA963HLpvgG-8w" group-title="Costa Rica",TV Retro Palmares
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1636094751999946759/ncEekY_6_400x400.jpg" group-title="Costa Rica",Antena Seis
 http://video1.azulstream.com:8080/antenaseistv/tracks-v1a1/mono.m3u8

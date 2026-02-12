@@ -1187,6 +1187,9 @@ http://200.229.147.142:8000/play/a06n
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s" group-title="Cine y Series",Sony Cine
 http://190.60.42.86:8000/play/a02t
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine y Series",Cine Familiar
+http://190.60.42.86:8000/play/a01i
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

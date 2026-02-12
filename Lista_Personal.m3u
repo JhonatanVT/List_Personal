@@ -1181,10 +1181,10 @@ http://iptv.tvxtremegold.com:8080/FarithMiranda/123456/104896
 #EXTINF:-1 tvg-id="" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0f292408-bfdd-4d2d-9de1-b531bc85cbb3/caba2d4c-6934-11f0-be94-0affcac4aa9f?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320" group-title="24/7",El Laboratorio de Dexter
 http://xpaneltv.com:8080/RodPan/73618366/301945
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s" group-title="Cine y Series",Sony Cine
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/MULTICINEMA.png/revision/latest?cb=20230304224643&path-prefix=es" group-title="Cine y Series",MultiCinema
 http://200.229.147.142:8000/play/a06n
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s" group-title="Cine y Series",Sony Cine
 http://190.60.42.86:8000/play/a02t
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo

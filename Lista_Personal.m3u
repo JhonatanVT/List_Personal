@@ -1199,6 +1199,9 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dxom067zt/image/upload/v1771460114/cartooncito_ug3kqr.png" group-title="Kids & Geek",Cartooncito
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dxom067zt/image/upload/v1771554986/Gemini_Generated_Image_5uxl195uxl195uxl-removebg-preview_nggqex.png" group-title="Kids & Geek",ComicPop!
+http://45.173.201.51:4000/play/a0er
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

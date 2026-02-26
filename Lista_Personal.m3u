@@ -1211,6 +1211,9 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Entretenimiento",TeleMicro Canal 5 RD
 http://45.5.119.97:12500/play/a053
 
+#EXTINF:-1 tvg-logo="https://alba-sv-c12.cdn.mediatiquepress.com/wp-content/uploads/2025/08/cropped-favicon-1-150x150.png" group-title="Entretenimiento",Canal 12 SV
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

@@ -1220,6 +1220,9 @@ https://d19e55ehz2il4i.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png" group-title="USA",Love Nature US
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1280px-CNN_Logo_%282014%29.svg.png" group-title="USA",CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1347,7 +1350,7 @@ https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://177.234.230.206:8011/play/a0hm
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN Deportes
-http://disfruta.net/live/danielipdiscord/bLbiWJmAFm/9db9023b-972f-4776-aecf-5386bae176db.m3u
+http://190.61.34.164:8000/play/a02v
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DSports
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278892.m3u8

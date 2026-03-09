@@ -225,7 +225,7 @@ http://fl1.moveonjoy.com/MTV/index.m3u8
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="24/7",Dragon Ball
-https://tvgolat.org:8443/play/xo1Ic4o8xub_j96_rjMj0GPHLKOxJoM321LAaREZlVmkE7xYZTj8RVaYaqkeWEHj/m3u8
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a47b82ce09b09fd7887281d2c9898e8c286d254625ada437071885503e6b1416.png" group-title="24/7",Dos Hombres y Medio
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/279021.m3u8
@@ -1228,6 +1228,9 @@ http://212.102.60.231/BOUNCE_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Magnolia_Network.svg" group-title="USA",Magnolia Network
 http://212.102.60.231/DIY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/X-Men_-_The_Animated_Series_-_logo.svg/1280px-X-Men_-_The_Animated_Series_-_logo.svg.png" group-title="24/7",X-Men:La Serie Animada
+https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8

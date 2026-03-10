@@ -1229,6 +1229,9 @@ http://212.102.60.231/BOUNCE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Magnolia_Network.svg" group-title="USA",Magnolia Network
 http://212.102.60.231/DIY/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMyZTNmZjEtOTU3NC00OWNjLTk3ZjctOGQ5YTdkOTMyNzE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="24/7",X-Men:La Serie Animada
+http://xpaneltv.com:8080/RodPan/73618366/111378
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/X-Men_-_The_Animated_Series_-_logo.svg/1280px-X-Men_-_The_Animated_Series_-_logo.svg.png" group-title="24/7",X-Men:La Serie Animada
 https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
 

@@ -1238,6 +1238,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/250px-TBBT_logo.svg.png" group-title="24/7",The Big Bang Theory
 http://playtv44.com:8080/981631314/142536/217076
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vKXgCje2NVqnxixqoU9JQXREvLr.png" group-title="24/7",Batman:La Serie Animada 
+http://xpaneltv.com:8080/RodPan/73618366/106239
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

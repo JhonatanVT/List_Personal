@@ -1250,6 +1250,9 @@ https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playl
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="Deportes",Win Sports
 http://191.97.15.250:45000/play/a04c
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.logo.wine/a/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.svg" group-title="Deportes",Movistar Deportes
+http://38.224.231.47:8000/play/a04k
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

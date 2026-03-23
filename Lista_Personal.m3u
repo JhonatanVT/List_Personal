@@ -1253,6 +1253,10 @@ http://191.97.15.250:45000/play/a04c
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.logo.wine/a/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.svg" group-title="Deportes",Movistar Deportes
 http://38.224.231.47:8000/play/a04k
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/logo-tvsur-mantenimiento.png" group-title="Costa Rica",TVSUR Canal 14
+https://k20.usastreams.com:8081/tvsur/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

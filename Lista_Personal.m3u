@@ -1259,6 +1259,8 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online.png" group-title="Costa Rica",TV SUR Canal 9
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transdatelecom.com/streaming/supercinco.png" group-title="Costa Rica",Super 5 TV
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8

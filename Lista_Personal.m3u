@@ -24,8 +24,8 @@ http://190.115.9.175:8000/play/a0hu
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine y Series",Cinecanal
 http://200.229.147.142:8000/play/a03g
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine y Series",Sony Channel
-http://45.181.123.233:8000/play/a0l4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine y Series",Sony
+http://200.229.147.142:8000/play/a03f
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest?cb=20190207141646" group-title="Cine y Series",Warner Channel
 http://45.181.123.233:8000/play/a182

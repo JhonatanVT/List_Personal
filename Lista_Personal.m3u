@@ -1274,8 +1274,8 @@ https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uxWNhsy.png" group-title="Kids & Geek",Anime XTV 
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dxom067zt/image/upload/v1775860849/retro_kids_n8fmj7.png" group-title="Kids & Geek",Retro Kids
-http://38.250.125.217:8076/play/308
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dxom067zt/image/upload/v1775931324/dm_kids_tv_oogwls.png" group-title="Kids & Geek",DM Kids TV
+https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8

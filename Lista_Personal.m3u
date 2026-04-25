@@ -1301,6 +1301,10 @@ http://redworld.pro:8880/Gx30229063/PLzhenS39NMA/520977
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/19Ai02xeZFGCxKiYozSjAi2SHTD.png" group-title="24/7",Drake y Josh
 http://redworld.pro:8880/Gx30229063/PLzhenS39NMA/520975
 
+#EXTINF:-1 tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/04/spider-man-logo03-freelogovectors.net_.png" group-title="24/7",Spiderman
+https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

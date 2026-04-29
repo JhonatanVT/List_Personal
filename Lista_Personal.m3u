@@ -1307,6 +1307,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2845%2FPNG%2F512%2Fespn_logo_icon_181380.png&id=181380&pack_or_individual=pack" group-title="Deportes",ESPN ARG
 http://181.209.105.115:2525/play/espn/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.foxdeportes.com/assets/images/banner.png" group-title="Deportes",Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

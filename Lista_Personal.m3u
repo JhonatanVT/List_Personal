@@ -1313,6 +1313,9 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_PX_Sports_Vertical_Negro.png/250px-Logo_PX_Sports_Vertical_Negro.png" group-title="Deportes"PX Sports
 http://200.229.147.142:8000/play/a02j
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes"TNT Sports Premium
+http://179.63.6.12:9000/play/a06w
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

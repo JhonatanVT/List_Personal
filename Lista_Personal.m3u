@@ -111,7 +111,7 @@ http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/91.m3u
 http://45.181.122.46:8090/play/a00t
 
 #EXTINF:-1 tvg-id="DreamWorks.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="Kids & Geek",Dreamworks
-http://45.189.148.5:8000/play/a00j
+http://200.229.147.142:8000/play/a05d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Entretenimiento",Lifetime
 http://38.52.209.82:8000/play/a01c

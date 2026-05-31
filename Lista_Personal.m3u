@@ -103,7 +103,7 @@ http://200.229.147.142:8000/play/a022
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwim.lat" tvg-logo="https://i.postimg.cc/htK7TTqG/adultsw-imx.jpg" group-title="Kids & Geek",Adult Swim
-http://vende.offshore.lat:8080/live/alejandrovazquez/X4djH716XG/91.m3u
+http://148.230.149.45:1021/play/a03i
 
 #EXTINF:-1 tvg-id="ETC.cl" tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Kids & Geek",ETC
 http://45.181.122.46:8090/play/a00t

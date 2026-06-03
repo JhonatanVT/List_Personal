@@ -1350,6 +1350,9 @@ http://179.63.6.12:9000/play/a05t
 #EXTINF:-1 tvg-logo="https://logosnicas.com/wp-content/uploads/2022/08/canal_12_nicavision.png" group-title="Entretenimiento",Canal 12 NIC
 http://200.229.147.210:9999/play/a02j
 
+#EXTINF:-1 tvg-logo="https://telelima.pe/img/logo.png" group-title="Entretenimiento",Telelima
+https://live.telelima.net/web/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

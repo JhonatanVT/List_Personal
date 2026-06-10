@@ -1362,6 +1362,9 @@ http://24.152.42.29:8000/play/a02c
 #EXTINF:-1 tvg-logo="https://sportstechie.net/wp-content/uploads/2025/08/TDA_Logo_Color-1000x312.png" group-title="Deportes",Telemundo Deportes Ahora
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/2jpBTPlTPjWX2WuA488nj5/2f76e810421377d2625e57fad5ad186a/hisports.png" group-title="Deportes",Hi Sports
+http://148.230.149.45:1021/play/a08j
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

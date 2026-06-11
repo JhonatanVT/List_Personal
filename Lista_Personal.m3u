@@ -1365,6 +1365,9 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/2jpBTPlTPjWX2WuA488nj5/2f76e810421377d2625e57fad5ad186a/hisports.png" group-title="Deportes",Hi Sports
 http://148.230.149.45:1021/play/a08j
 
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1780482132470" group-title="Deportes",DSports 2
+http://190.7.19.197:232/play/a09h
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

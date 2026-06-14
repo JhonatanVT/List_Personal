@@ -341,7 +341,7 @@ http://200.229.147.142:8000/play/a013
 http://45.163.139.42:8000/play/123
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DSports
-http://190.242.61.125:8000/play/a0kz
+http://190.7.19.197:232/play/a09i                       
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest?cb=20231117062910" group-title="Deportes",Fox Sports Premium
 http://xpaneltv.com:80

@@ -61,7 +61,7 @@ http://38.52.209.82:8000/play/a01p
 http://38.52.209.82:8000/play/a01v
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Culturales",Discovery Channel
-http://200.125.170.122:8000/play/a062
+http://190.61.101.11:7050/play/a05h
 
 #EXTINF:-1 tvg-id="History.lat" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="Culturales",History
 http://200.229.147.142:8000/play/a01o/index.m3u8

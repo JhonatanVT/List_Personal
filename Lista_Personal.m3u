@@ -573,6 +573,9 @@ https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",Wild 'N Out
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69172f1699758a0f03459c5b/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",America's Funniest Home Videos
+https://jmp2.uk/plu-69172f1699758a0f03459c5b.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica", Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 

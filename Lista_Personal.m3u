@@ -1395,6 +1395,9 @@ http://148.230.149.45:1021/play/a08j
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1780482132470" group-title="Deportes",DSports 2
 http://190.7.19.197:232/play/a09h
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dxom067zt/image/upload/v1782857983/Gemini_Generated_Image_hh9jeuhh9jeuhh9j-removebg-preview-47501c09-0b56-4f50-b6fc-b40188d46c72-removebg-preview_iuacuz.png" group-title="Cine y Series",Rewind
+http://190.102.247.126:8000/play/a012
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

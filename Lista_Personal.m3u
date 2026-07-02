@@ -1401,6 +1401,9 @@ http://190.102.247.126:8000/play/a012
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dxom067zt/image/upload/v1782971445/mark-removebg-preview_yrfv79.png" group-title="Cine y Series",Claro Cinema
 http://148.230.149.45:1021/play/a087
 
+#EXTINF:-1 tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Cine y Series",AMC Series
+http://38.44.109.41:8003/play/a0ct
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

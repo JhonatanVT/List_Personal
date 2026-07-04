@@ -1404,6 +1404,9 @@ http://148.230.149.45:1021/play/a087
 #EXTINF:-1 tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Cine y Series",AMC Series
 http://38.44.109.41:8003/play/a0ct
 
+#EXTINF:-1 tvg-logo="https://altice.com.do/assets/imgs/premium-channels/packages-tv/EuropaEuropa.png" group-title="Cine y Series",Europa Europa
+http://200.115.96.66:4000/play/a01j
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

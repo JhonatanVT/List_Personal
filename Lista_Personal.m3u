@@ -40,7 +40,7 @@ http://190.61.34.164:8000/play/a01g
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Kids & Geek",Tooncast
-http://200.229.147.142:8000/play/a02z
+http://181.78.0.156:8000/play/a03a
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" group-title="Kids & Geek",Bitme
 http://181.78.0.156:8000/play/a03j

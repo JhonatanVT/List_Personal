@@ -115,7 +115,7 @@ http://200.229.147.142:8000/play/a05d
 http://38.52.209.82:8000/play/a01c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Entretenimiento",Distrito Comedia
-http://187.102.208.83:50000/play/a0ae/index.m3u8
+http://181.78.0.156:8000/play/a02f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Entretenimiento",TLC
 http://38.52.209.82:8000/play/a03z

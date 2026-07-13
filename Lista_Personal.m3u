@@ -118,7 +118,7 @@ http://200.115.96.61:9090/play/a0d3
 http://181.78.0.156:8000/play/a02f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Entretenimiento",TLC
-http://38.52.209.82:8000/play/a03z
+http://179.1.139.84:8000/play/a02w
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Entretenimiento",Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8

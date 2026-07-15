@@ -1410,6 +1410,9 @@ http://200.115.96.66:4000/play/a01j
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1781507719185" group-title="Deportes",Dsports +
 http://190.108.83.69:8000/play/a05w
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp" group-title="Deportes",Fox Sports Argentina
+http://181.233.180.4:8000/play/a07j
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

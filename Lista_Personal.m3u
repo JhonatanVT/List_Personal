@@ -1407,6 +1407,9 @@ http://38.44.109.41:8003/play/a0ct
 #EXTINF:-1 tvg-logo="https://altice.com.do/assets/imgs/premium-channels/packages-tv/EuropaEuropa.png" group-title="Cine y Series",Europa Europa
 http://200.115.96.66:4000/play/a01j
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN COL
+http://190.61.43.118:45000/play/a094
+
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1781507719185" group-title="Deportes",Dsports +
 http://190.108.83.69:8000/play/a05w
 

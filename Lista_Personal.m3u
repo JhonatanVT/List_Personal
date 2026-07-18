@@ -64,7 +64,7 @@ http://45.186.106.207:8000/play/a07v
 http://190.61.101.11:7050/play/a05h
 
 #EXTINF:-1 tvg-id="History.lat" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="Culturales",History
-http://200.229.147.142:8000/play/a01o/index.m3u8
+http://45.167.2.101:8000/play/a0ny
 
 #EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="Culturales",Animal Planet
 http://45.5.117.57:8200/play/a01j

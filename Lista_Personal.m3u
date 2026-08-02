@@ -801,6 +801,9 @@ https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Pluto TV Aventura
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Ice Pilots
+https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
+
 #EXTINF:-1 tvg-logo="https://urbanotvcr.com/wp-content/uploads/2023/04/cropped-logo-tv-blanco.png" group-title="Costa Rica",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 

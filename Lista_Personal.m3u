@@ -145,7 +145,7 @@ http://212.102.60.231/ABC/index.m3u8
 https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/2560px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="USA",FOX
-http://143.244.60.30/FOX_EAST/index.m3u8
+http://206.212.244.63/64/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA",NBC
 http://200.125.170.122:8000/play/a05o

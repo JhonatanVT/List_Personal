@@ -13,7 +13,7 @@ http://190.7.192.165:8031/play/s53
 https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Repretel6.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/1200px-RepretelCanal62024.svg.png" group-title="Costa Rica",Canal 6
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+https://d2b5h5wyivfnfl.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Cine y Series",HBO 2
 http://200.115.96.66:4000/play/a02p

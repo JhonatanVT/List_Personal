@@ -1452,6 +1452,9 @@ http://45.5.117.57:8200/play/a044
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="Cine y Series",Cine Latino
 http://iptv2.intersurtv.cl/CINELATINO_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" group-title="Cine y Series",Ent Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

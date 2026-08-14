@@ -1455,11 +1455,14 @@ http://iptv2.intersurtv.cl/CINELATINO_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png" group-title="Cine y Series",Ent Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Canal3Guatemala%282022Logo%29.webp" group-title="Entretenimiento",Canal 3 GT
-http://200.35.176.154:8000/play/a02u
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Canal 13 NIC
 http://181.78.50.91:8000/play/a02m
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1920px-Unicable_logo.svg.png" group-title="Entretenimiento",Unicable
+http://45.238.141.222:8000/play/a0pl
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Canal3Guatemala%282022Logo%29.webp" group-title="Entretenimiento",Canal 3 GT
+http://200.35.176.154:8000/play/a02u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8

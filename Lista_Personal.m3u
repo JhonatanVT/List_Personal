@@ -82,7 +82,7 @@ http://190.7.192.162:8007/play/s10
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="Entretenimiento",Universal Reality
-http://181.78.50.91:8000/play/a04i
+http://168.228.44.241:9997/play/a01x
 
 #EXTINF:-1 tvg-id="Canal10.cr" tvg-logo="https://i.postimg.cc/7LgLtLfX/cr10.jpg" group-title="Costa Rica",Canal 10
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
@@ -1456,7 +1456,7 @@ http://iptv2.intersurtv.cl/CINELATINO_HD/index.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Canal 13 NIC
-http://45.171.108.253:8888/VIVA/index.m3u8
+https://cdn.vivamediosni.com/viva_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1920px-Unicable_logo.svg.png" group-title="Entretenimiento",Unicable
 http://45.238.141.222:8000/play/a0pl
@@ -1465,7 +1465,7 @@ http://45.238.141.222:8000/play/a0pl
 http://200.35.176.154:8000/play/a02u
 
 #EXTINF:-1 tvg-logo="https://iconape.com/download/282907/png/" group-title="Entretenimiento",Canal 11 HN
-http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8
+https://jireh-7-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/canal11hn/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8

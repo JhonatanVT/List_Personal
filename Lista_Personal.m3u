@@ -133,7 +133,7 @@ http://200.229.147.142:8000/play/a046
 http://45.181.122.46:8090/play/a025
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Culturales",Discovery Theater
-http://200.125.170.122:8000/play/a04i
+http://186.148.163.17:8000/play/a0an
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="Culturales",Discovery Science
 http://138.59.177.34:8000/play/a00v/index.m3u8

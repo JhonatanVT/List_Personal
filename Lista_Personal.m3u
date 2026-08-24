@@ -73,7 +73,7 @@ http://45.167.2.101:8000/play/a0nt
 http://190.61.101.11:7050/play/a05f
 
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Culturales",Love Nature
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=4101863907&_cdn_token=c0acd72b56d656391df6806e504a12761129c6d0
 
 #EXTINF:-1 tvg-id="teletica.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica",Teletica Canal 7
 http://190.7.192.162:8007/play/s10

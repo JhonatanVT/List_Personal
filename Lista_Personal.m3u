@@ -1470,6 +1470,9 @@ https://jireh-7-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/4/2/espn-2-logo-png_seeklogo-49202.png" group-title="Deportes",ESPN 2 COL
 http://190.61.43.118:45000/play/a053
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/FoxSports_2_%28Argentina%29.webp?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes",Fox Sports 2 Argentina
+http://177.53.153.207:8000/play/a006
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021157328772_64.png" group-title="Deportes",DAZN F1
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 

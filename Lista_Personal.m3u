@@ -1467,6 +1467,9 @@ http://200.35.176.154:8000/play/a02u
 #EXTINF:-1 tvg-logo="https://iconape.com/download/282907/png/" group-title="Entretenimiento",Canal 11 HN
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/canal11hn/livestream2/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/4/2/espn-2-logo-png_seeklogo-49202.png" group-title="Deportes",ESPN 2 COL
+http://190.61.43.118:45000/play/a053
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021157328772_64.png" group-title="Deportes",DAZN F1
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 

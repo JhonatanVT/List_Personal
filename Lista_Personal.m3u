@@ -139,7 +139,7 @@ http://186.148.163.17:8000/play/a0an
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="USA",ABC
-http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+http://99.45.78.199:9981/stream/channelid/688766904?ticket=C5AC4D63DD10ECBEC811FAF53C1161DDFF3A3E85&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png" group-title="USA",CBS
 https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8

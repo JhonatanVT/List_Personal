@@ -825,6 +825,9 @@ https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Mi Coche Clásico
 https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Motorvision TV
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+
 #EXTINF:-1 tvg-logo="https://urbanotvcr.com/wp-content/uploads/2023/04/cropped-logo-tv-blanco.png" group-title="Costa Rica",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 

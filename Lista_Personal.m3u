@@ -1506,6 +1506,9 @@ https://aym-as.otteravision.com/aym/as/as.m3u8
 #EXTINF:-1 tvg-logo="https://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="Cine y Series",Euro Channel
 http://38.224.22.255:8000/play/a01s
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/USA_Network_2020.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine y Series",USA
+http://181.78.78.66:8000/play/a02p
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

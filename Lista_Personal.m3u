@@ -46,7 +46,7 @@ http://181.78.0.156:8000/play/a03a
 http://181.78.0.156:8000/play/a03j
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Entretenimiento",Telemundo
-http://200.39.57.254:8008/play
+http://45.5.117.188:8000/play/a077
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/SVPlus.svg/revision/latest/scale-to-width-down/250?cb=20251215190829&path-prefix=es" group-title="Entretenimiento",SV+
 http://45.167.2.101:8000/play/a0qx
@@ -1642,7 +1642,7 @@ https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://181.198.105.69:8111/play/a11p
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN Deportes
-http://38.188.186.47:4000/play/Ji198/index.m3u8
+http://186.33.24.156:8000/play/a0lv
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DSports
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278892.m3u8

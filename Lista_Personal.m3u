@@ -1515,6 +1515,9 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine y Series",Cine AR
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cinear_hls/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Canal_14_Vos_TV_2010.svg/revision/latest/scale-to-width-down/200?cb=20231211200132" group-title="Entretenimiento",Canal 14 NIC
+http://38.52.208.106:8000/play/a02f/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1642,7 +1645,7 @@ https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://181.198.105.69:8111/play/a11p
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN Deportes
-http://186.33.24.156:8000/play/a0lv
+https://t.freetv.fun/live/espn-deportes.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DSports
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278892.m3u8

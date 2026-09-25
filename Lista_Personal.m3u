@@ -1518,6 +1518,9 @@ https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cinear_hls/playlist
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Canal_14_Vos_TV_2010.svg/revision/latest/scale-to-width-down/200?cb=20231211200132" group-title="Entretenimiento",Canal 14 NIC
 http://38.52.208.106:8000/play/a02f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/v25/resources/unitel/images/png/logo-unitel-2026.png" group-title="Entretenimiento",Unitel Bol
+http://190.181.61.93:8000/play/a00u
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
@@ -1645,7 +1648,7 @@ https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://181.198.105.69:8111/play/a11p
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN Deportes
-https://t.freetv.fun/live/espn-deportes.m3u8
+http://195.178.110.110/espndeportes/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DSports
 http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278892.m3u8

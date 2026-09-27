@@ -1524,6 +1524,10 @@ http://190.181.61.93:8000/play/a00u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal7Guatemala%282022Logo%29.webp?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Canal 7 GT
 http://45.5.118.152:8000/play/a03w
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1280px-VTV_HN_logo_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Entretenimiento",VTV TV HN
+https://d3ih3uui5kpbun.cloudfront.net/5_4/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

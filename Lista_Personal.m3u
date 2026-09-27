@@ -34,7 +34,7 @@ http://200.229.147.142:8000/play/a03e
 http://181.78.79.131:8000/play/a0tj
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Kids & Geek",Nickelodeon
-http://190.61.34.164:8000/play/a01g
+http://45.167.2.101:8000/play/a0qv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Kids & Geek",Disney Channel
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8

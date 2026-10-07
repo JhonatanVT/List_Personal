@@ -1530,6 +1530,9 @@ https://d3ih3uui5kpbun.cloudfront.net/5_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/V%C3%ADa_X_ESports.svg/revision/latest/scale-to-width-down/200?cb=20220313005137" group-title="Deportes",Via X Esports
 http://181.224.255.210:8001/play/a0qs
 
+#EXTINF:-1 tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2026/08/logo-CDN-Deportes-white-scaled.png" group-title="Deportes",CDN Deportes
+https://hls.tvabierta.net/hls/036.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

@@ -1530,6 +1530,9 @@ https://d3ih3uui5kpbun.cloudfront.net/5_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/V%C3%ADa_X_ESports.svg/revision/latest/scale-to-width-down/200?cb=20220313005137" group-title="Deportes",Via X Esports
 http://181.224.255.210:8001/play/a0qs
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FoxSports_3_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes",Fox Sports 3 ARG
+http://181.209.38.115:8000/play/a00i
+
 #EXTINF:-1 tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2026/08/logo-CDN-Deportes-white-scaled.png" group-title="Deportes",CDN Deportes
 https://hls.tvabierta.net/hls/036.m3u8
 

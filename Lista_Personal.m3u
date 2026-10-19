@@ -7,7 +7,7 @@ https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
 https://vid.canal1cr.com:3424/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica",CDR Canal 2
-http://190.7.192.165:8031/play/s53
+http://45.163.139.42:8000/play/a04x
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RepretelCanal42024.svg/1200px-RepretelCanal42024.svg.png" group-title="Costa Rica",Canal 4
 https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
@@ -16,7 +16,7 @@ https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
 http://38.224.22.255:8000/play/a01n
 
 #EXTINF:-1 tvg-id="HBO2.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Cine y Series",HBO 2
-http://186.33.26.18:8000/play/a0lp
+http://45.5.117.188:8000/play/a06w
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Cine y Series",TNT
 http://45.167.2.101:8000/play/a0rn
@@ -1542,11 +1542,11 @@ http://200.115.120.1:8000/play/ca081
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg" group-title="Cine y Series",Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="Cine y Series",Antares TV
-https://tvsamgo.com/socios/antares-tv/playlist.m3u8?t=w1.1792030798.-gFfoA4OvrKWNvRInS2VEapFfiNK0UwY
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="Cine y Series",Bayres TV
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="Cine y Series",AZ Cinema
-https://iptv.intersurtv.cl/AZ_CINEMA_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png" group-title="Cine y Series",ENT Comedy
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dxom067zt/image/upload/v1792193974/famichannellogo_raeemz.png" group-title="Cine y Series",Famichannel
 http://190.61.114.186:8000/play/a04v/index.m3u8

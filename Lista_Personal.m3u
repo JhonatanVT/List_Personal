@@ -1560,6 +1560,9 @@ http://190.181.61.93:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/hg/282479/png/nex-canal-21-panama-logo.png" group-title="Entretenimiento",Next TV PA
 https://movil.ejeserver.com/live/nextv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Telefuro TV
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

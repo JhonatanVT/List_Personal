@@ -1551,8 +1551,8 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dxom067zt/image/upload/v1792193974/famichannellogo_raeemz.png" group-title="Cine y Series",Famichannel
 http://190.61.114.186:8000/play/a04v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Telexitos
-http://190.197.41.183/TELEXITOS/index.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RCNHD22023.svg/revision/latest/scale-to-width-down/284?cb=20260702002749&path-prefix=es" group-title="Entretenimiento",RCN HD2
+http://152.231.29.139:8000/play/a0jw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Bolivision
 http://190.181.61.93:8000/play/a00j

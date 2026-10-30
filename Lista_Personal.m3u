@@ -344,7 +344,7 @@ http://38.224.22.255:8000/play/a07j
 http://38.187.7.252:8000/play/a03d
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest?cb=20231117062910" group-title="Deportes",Fox Sports Premium
-http://xpaneltv.com:80
+http://38.188.186.47:4000/play/a00c
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/TUDNlogo.png/revision/latest?cb=20190721040715&path-prefix=es" group-title="Deportes",TUDN
 http://200.229.147.142:8000/play/a096

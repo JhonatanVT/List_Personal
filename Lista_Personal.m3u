@@ -612,6 +612,9 @@ https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV USA",Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica", Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 

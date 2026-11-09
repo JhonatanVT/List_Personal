@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/JhonatanVT/EPG/main/epgpersonal.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica",Canal Opa
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8

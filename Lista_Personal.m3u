@@ -849,6 +849,9 @@ https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Dog el cazarrecompensas
 https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Pluto TV Latinoamerica",Empeños a lo bestia
+https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
+
 #EXTINF:-1 tvg-logo="https://urbanotvcr.com/wp-content/uploads/2023/04/cropped-logo-tv-blanco.png" group-title="Costa Rica",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 

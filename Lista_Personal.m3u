@@ -19,7 +19,7 @@ http://38.224.22.255:8000/play/a01n
 http://45.5.117.188:8000/play/a06w
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Cine y Series",TNT
-http://45.167.2.101:8000/play/a0rn
+http://45.167.1.136:8000/play/a05w
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine y Series",Cinecanal
 http://200.229.147.142:8000/play/a03g

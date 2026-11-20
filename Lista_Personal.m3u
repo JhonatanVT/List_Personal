@@ -1590,6 +1590,9 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine y Series",Nitro
 http://205.235.6.29:8000/play/a0xw
 
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/341-3412421_tvc-cine-mexicano-2016-logo-canal-cine-mexicano.png" group-title="Cine y Series",Cine Mexicano
+http://190.61.101.11:7050/play/a08x
+
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Cine y Series",ENT Extreme
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 

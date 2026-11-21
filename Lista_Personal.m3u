@@ -1596,6 +1596,9 @@ http://190.61.101.11:7050/play/a08x
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png" group-title="Cine y Series",ENT Extreme
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://govel.com.ar/logos-canales/l21.png" group-title="Cine y Series",Free TV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

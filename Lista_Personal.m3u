@@ -1602,6 +1602,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CaracolHD2.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Caracol HD2
 http://152.231.29.139:8000/play/a0jz
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento",F10 Bol
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 

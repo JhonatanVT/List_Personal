@@ -1608,6 +1608,9 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/RPCPanama2021.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",RPC PAN
 http://181.78.121.15:8000/play/a003/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://alba-py-snt.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-1-150x68.png" group-title="Entretenimiento",SNT 
+https://tv.mitvparaguay.com/hls?id=snt
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="",Telemundo
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 
